@@ -1,0 +1,619 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728118339121,548,HTTP Request,200,OK,Thread Group 1-1,text,true,,143658,232,1,1,https://www.yahoo.com/,29,0,12
+1728118339121,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,1,1,http://www.yahoo.com/,29,0,12
+1728118339150,519,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,143424,116,1,1,https://www.yahoo.com/,473,0,34
+1728118339669,439,HTTP Request,200,OK,Thread Group 1-1,text,true,,144341,232,2,2,https://www.yahoo.com/,13,0,0
+1728118339669,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,2,2,http://www.yahoo.com/,13,0,0
+1728118339683,425,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,144107,116,2,2,https://www.yahoo.com/,404,0,0
+1728118340086,513,HTTP Request,200,OK,Thread Group 1-2,text,true,,143937,232,2,2,https://www.yahoo.com/,38,0,22
+1728118340086,38,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,2,2,http://www.yahoo.com/,38,0,22
+1728118340124,475,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143703,116,2,2,https://www.yahoo.com/,423,0,39
+1728118340109,502,HTTP Request,200,OK,Thread Group 1-1,text,true,,143893,232,2,2,https://www.yahoo.com/,13,0,0
+1728118340109,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,2,2,http://www.yahoo.com/,13,0,0
+1728118340122,489,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,143659,116,2,2,https://www.yahoo.com/,453,0,0
+1728118340611,422,HTTP Request,200,OK,Thread Group 1-1,text,true,,143982,232,2,2,https://www.yahoo.com/,14,0,0
+1728118340611,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,2,2,http://www.yahoo.com/,14,0,0
+1728118340625,408,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,143748,116,2,2,https://www.yahoo.com/,386,0,0
+1728118340599,484,HTTP Request,200,OK,Thread Group 1-2,text,true,,143937,232,2,2,https://www.yahoo.com/,15,0,0
+1728118340599,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,2,2,http://www.yahoo.com/,15,0,0
+1728118340614,469,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143703,116,2,2,https://www.yahoo.com/,432,0,0
+1728118341033,478,HTTP Request,200,OK,Thread Group 1-1,text,true,,145395,232,3,3,https://www.yahoo.com/,20,0,0
+1728118341033,20,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,3,3,http://www.yahoo.com/,20,0,0
+1728118341053,458,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,145161,116,3,3,https://www.yahoo.com/,431,0,0
+1728118341083,429,HTTP Request,200,OK,Thread Group 1-2,text,true,,144327,232,3,3,https://www.yahoo.com/,16,0,0
+1728118341083,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,3,3,http://www.yahoo.com/,16,0,0
+1728118341099,413,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,144093,116,3,3,https://www.yahoo.com/,385,0,0
+1728118341085,568,HTTP Request,200,OK,Thread Group 1-3,text,true,,145700,232,3,3,https://www.yahoo.com/,29,0,14
+1728118341085,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,3,3,http://www.yahoo.com/,29,0,14
+1728118341114,539,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,145466,116,3,3,https://www.yahoo.com/,490,0,38
+1728118341511,450,HTTP Request,200,OK,Thread Group 1-1,text,true,,144299,232,3,3,https://www.yahoo.com/,13,0,0
+1728118341511,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,3,3,http://www.yahoo.com/,13,0,0
+1728118341524,437,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,144065,116,3,3,https://www.yahoo.com/,411,0,0
+1728118341513,467,HTTP Request,200,OK,Thread Group 1-2,text,true,,144068,232,3,3,https://www.yahoo.com/,14,0,0
+1728118341513,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,3,3,http://www.yahoo.com/,14,0,0
+1728118341527,453,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143834,116,3,3,https://www.yahoo.com/,427,0,0
+1728118341653,447,HTTP Request,200,OK,Thread Group 1-3,text,true,,144328,232,4,4,https://www.yahoo.com/,15,0,0
+1728118341653,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118341668,432,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,144094,116,4,4,https://www.yahoo.com/,411,0,0
+1728118341961,422,HTTP Request,200,OK,Thread Group 1-1,text,true,,144352,232,4,4,https://www.yahoo.com/,19,0,0
+1728118341961,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,4,4,http://www.yahoo.com/,19,0,0
+1728118341980,403,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,144118,116,4,4,https://www.yahoo.com/,379,0,0
+1728118341980,477,HTTP Request,200,OK,Thread Group 1-2,text,true,,143937,232,4,4,https://www.yahoo.com/,15,0,0
+1728118341980,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118341995,462,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143703,116,4,4,https://www.yahoo.com/,438,0,0
+1728118342100,412,HTTP Request,200,OK,Thread Group 1-3,text,true,,143982,232,4,4,https://www.yahoo.com/,14,0,0
+1728118342100,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,4,4,http://www.yahoo.com/,14,0,0
+1728118342115,397,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,143748,116,4,4,https://www.yahoo.com/,379,0,0
+1728118342084,629,HTTP Request,200,OK,Thread Group 1-4,text,true,,143900,232,4,4,https://www.yahoo.com/,33,0,17
+1728118342084,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,4,4,http://www.yahoo.com/,33,0,17
+1728118342117,596,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,143666,116,4,4,https://www.yahoo.com/,548,0,37
+1728118342457,420,HTTP Request,200,OK,Thread Group 1-2,text,true,,144007,232,4,4,https://www.yahoo.com/,16,0,0
+1728118342457,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,4,4,http://www.yahoo.com/,16,0,0
+1728118342473,404,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143773,116,4,4,https://www.yahoo.com/,380,0,0
+1728118342383,529,HTTP Request,200,OK,Thread Group 1-1,text,true,,144384,232,4,4,https://www.yahoo.com/,13,0,0
+1728118342383,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,4,4,http://www.yahoo.com/,13,0,0
+1728118342396,516,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,144150,116,4,4,https://www.yahoo.com/,473,0,0
+1728118342512,453,HTTP Request,200,OK,Thread Group 1-3,text,true,,144334,232,4,4,https://www.yahoo.com/,15,0,0
+1728118342512,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118342527,438,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,144100,116,4,4,https://www.yahoo.com/,417,0,0
+1728118342713,495,HTTP Request,200,OK,Thread Group 1-4,text,true,,143831,232,5,5,https://www.yahoo.com/,18,0,0
+1728118342713,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,5,5,http://www.yahoo.com/,18,0,0
+1728118342731,477,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,143597,116,5,5,https://www.yahoo.com/,441,0,0
+1728118342877,492,HTTP Request,200,OK,Thread Group 1-2,text,true,,143929,232,5,5,https://www.yahoo.com/,35,0,0
+1728118342877,35,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,5,5,http://www.yahoo.com/,35,0,0
+1728118342912,457,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143695,116,5,5,https://www.yahoo.com/,424,0,0
+1728118342912,507,HTTP Request,200,OK,Thread Group 1-1,text,true,,144436,232,5,5,https://www.yahoo.com/,13,0,0
+1728118342912,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118342925,494,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,144202,116,5,5,https://www.yahoo.com/,459,0,0
+1728118343084,519,HTTP Request,200,OK,Thread Group 1-5,text,true,,144006,232,4,4,https://www.yahoo.com/,31,0,16
+1728118343084,31,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,4,4,http://www.yahoo.com/,31,0,16
+1728118343115,488,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143772,116,4,4,https://www.yahoo.com/,437,0,36
+1728118342965,643,HTTP Request,200,OK,Thread Group 1-3,text,true,,223021,232,4,4,https://www.yahoo.com/,15,0,0
+1728118342965,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118342980,628,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,222787,116,4,4,https://www.yahoo.com/,584,0,0
+1728118343208,452,HTTP Request,200,OK,Thread Group 1-4,text,true,,144328,232,4,4,https://www.yahoo.com/,16,0,0
+1728118343208,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,4,4,http://www.yahoo.com/,16,0,0
+1728118343224,436,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,144094,116,4,4,https://www.yahoo.com/,416,0,0
+1728118343370,474,HTTP Request,200,OK,Thread Group 1-2,text,true,,143711,232,4,4,https://www.yahoo.com/,17,0,0
+1728118343370,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,4,4,http://www.yahoo.com/,17,0,0
+1728118343387,457,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143477,116,4,4,https://www.yahoo.com/,424,0,0
+1728118343603,408,HTTP Request,200,OK,Thread Group 1-5,text,true,,143877,232,4,4,https://www.yahoo.com/,17,0,0
+1728118343603,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,4,4,http://www.yahoo.com/,17,0,0
+1728118343620,391,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143643,116,4,4,https://www.yahoo.com/,369,0,0
+1728118343660,405,HTTP Request,200,OK,Thread Group 1-4,text,true,,144353,232,4,4,https://www.yahoo.com/,15,0,0
+1728118343660,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118343676,389,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,144119,116,4,4,https://www.yahoo.com/,369,0,0
+1728118343608,464,HTTP Request,200,OK,Thread Group 1-3,text,true,,144327,232,4,4,https://www.yahoo.com/,15,0,0
+1728118343608,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118343623,449,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,144093,116,4,4,https://www.yahoo.com/,431,0,0
+1728118343845,456,HTTP Request,200,OK,Thread Group 1-2,text,true,,143884,232,5,5,https://www.yahoo.com/,14,0,0
+1728118343845,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118343859,442,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143650,116,5,5,https://www.yahoo.com/,421,0,0
+1728118344011,410,HTTP Request,200,OK,Thread Group 1-5,text,true,,143914,232,5,5,https://www.yahoo.com/,19,0,0
+1728118344011,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,5,5,http://www.yahoo.com/,19,0,0
+1728118344030,391,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143680,116,5,5,https://www.yahoo.com/,370,0,0
+1728118344072,427,HTTP Request,200,OK,Thread Group 1-3,text,true,,143879,232,5,5,https://www.yahoo.com/,14,0,0
+1728118344072,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118344086,413,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,143645,116,5,5,https://www.yahoo.com/,394,0,0
+1728118344065,479,HTTP Request,200,OK,Thread Group 1-4,text,true,,144366,232,5,5,https://www.yahoo.com/,16,0,0
+1728118344065,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,5,5,http://www.yahoo.com/,16,0,0
+1728118344081,463,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,144132,116,5,5,https://www.yahoo.com/,431,0,0
+1728118344084,542,HTTP Request,200,OK,Thread Group 1-6,text,true,,143808,232,5,5,https://www.yahoo.com/,29,0,14
+1728118344084,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,5,5,http://www.yahoo.com/,29,0,14
+1728118344113,513,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143574,116,5,5,https://www.yahoo.com/,469,0,33
+1728118344302,427,HTTP Request,200,OK,Thread Group 1-2,text,true,,143822,232,5,5,https://www.yahoo.com/,15,0,0
+1728118344302,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118344317,412,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,143588,116,5,5,https://www.yahoo.com/,387,0,0
+1728118344421,475,HTTP Request,200,OK,Thread Group 1-5,text,true,,143943,232,4,4,https://www.yahoo.com/,15,0,0
+1728118344421,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118344436,460,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143709,116,4,4,https://www.yahoo.com/,429,0,0
+1728118344499,433,HTTP Request,200,OK,Thread Group 1-3,text,true,,144011,232,4,4,https://www.yahoo.com/,21,0,0
+1728118344499,21,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,4,4,http://www.yahoo.com/,21,0,0
+1728118344520,412,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,143777,116,4,4,https://www.yahoo.com/,394,0,0
+1728118344544,425,HTTP Request,200,OK,Thread Group 1-4,text,true,,144528,232,4,4,https://www.yahoo.com/,16,0,0
+1728118344544,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,4,4,http://www.yahoo.com/,16,0,0
+1728118344560,409,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,144294,116,4,4,https://www.yahoo.com/,388,0,0
+1728118344626,432,HTTP Request,200,OK,Thread Group 1-6,text,true,,143703,232,4,4,https://www.yahoo.com/,13,0,0
+1728118344626,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,4,4,http://www.yahoo.com/,13,0,0
+1728118344639,419,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143469,116,4,4,https://www.yahoo.com/,400,0,0
+1728118344896,402,HTTP Request,200,OK,Thread Group 1-5,text,true,,143871,232,5,5,https://www.yahoo.com/,14,0,0
+1728118344896,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118344910,388,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143637,116,5,5,https://www.yahoo.com/,367,0,0
+1728118344932,457,HTTP Request,200,OK,Thread Group 1-3,text,true,,143917,232,5,5,https://www.yahoo.com/,14,0,0
+1728118344932,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118344946,443,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,143683,116,5,5,https://www.yahoo.com/,419,0,0
+1728118344969,451,HTTP Request,200,OK,Thread Group 1-4,text,true,,143916,232,5,5,https://www.yahoo.com/,16,0,0
+1728118344969,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,5,5,http://www.yahoo.com/,16,0,0
+1728118344985,435,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,143682,116,5,5,https://www.yahoo.com/,411,0,0
+1728118345058,402,HTTP Request,200,OK,Thread Group 1-6,text,true,,144526,232,5,5,https://www.yahoo.com/,15,0,0
+1728118345058,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118345073,387,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,144292,116,5,5,https://www.yahoo.com/,370,0,0
+1728118345298,409,HTTP Request,200,OK,Thread Group 1-5,text,true,,144519,232,5,5,https://www.yahoo.com/,14,0,0
+1728118345298,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118345312,395,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,144285,116,5,5,https://www.yahoo.com/,373,0,0
+1728118345084,703,HTTP Request,200,OK,Thread Group 1-7,text,true,,222989,232,5,5,https://www.yahoo.com/,29,0,15
+1728118345084,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,29,0,15
+1728118345114,673,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,222755,116,5,5,https://www.yahoo.com/,617,0,33
+1728118345389,438,HTTP Request,200,OK,Thread Group 1-3,text,true,,144239,232,5,5,https://www.yahoo.com/,15,0,0
+1728118345389,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118345404,423,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,144005,116,5,5,https://www.yahoo.com/,404,0,0
+1728118345420,455,HTTP Request,200,OK,Thread Group 1-4,text,true,,144067,232,4,4,https://www.yahoo.com/,15,0,0
+1728118345420,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118345435,440,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,143833,116,4,4,https://www.yahoo.com/,411,0,0
+1728118345460,474,HTTP Request,200,OK,Thread Group 1-6,text,true,,143923,232,4,4,https://www.yahoo.com/,14,0,0
+1728118345460,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,4,4,http://www.yahoo.com/,14,0,0
+1728118345474,460,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143689,116,4,4,https://www.yahoo.com/,432,0,0
+1728118345707,453,HTTP Request,200,OK,Thread Group 1-5,text,true,,143916,232,5,5,https://www.yahoo.com/,16,0,0
+1728118345707,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,5,5,http://www.yahoo.com/,16,0,0
+1728118345723,437,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143682,116,5,5,https://www.yahoo.com/,409,0,0
+1728118345787,424,HTTP Request,200,OK,Thread Group 1-7,text,true,,143736,232,5,5,https://www.yahoo.com/,13,0,0
+1728118345787,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118345800,411,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,143502,116,5,5,https://www.yahoo.com/,391,0,0
+1728118345934,418,HTTP Request,200,OK,Thread Group 1-6,text,true,,143967,232,5,5,https://www.yahoo.com/,14,0,0
+1728118345934,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118345948,404,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143733,116,5,5,https://www.yahoo.com/,387,0,0
+1728118346085,514,HTTP Request,200,OK,Thread Group 1-8,text,true,,144154,232,5,5,https://www.yahoo.com/,33,0,15
+1728118346085,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,5,5,http://www.yahoo.com/,33,0,15
+1728118346118,481,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143920,116,5,5,https://www.yahoo.com/,435,0,35
+1728118346160,456,HTTP Request,200,OK,Thread Group 1-5,text,true,,143975,232,5,5,https://www.yahoo.com/,14,0,0
+1728118346160,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118346174,442,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143741,116,5,5,https://www.yahoo.com/,410,0,0
+1728118346211,408,HTTP Request,200,OK,Thread Group 1-7,text,true,,143982,232,5,5,https://www.yahoo.com/,14,0,0
+1728118346211,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118346226,393,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,143748,116,5,5,https://www.yahoo.com/,375,0,0
+1728118346352,420,HTTP Request,200,OK,Thread Group 1-6,text,true,,143940,232,5,5,https://www.yahoo.com/,14,0,0
+1728118346352,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118346366,406,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143706,116,5,5,https://www.yahoo.com/,384,0,0
+1728118346619,427,HTTP Request,200,OK,Thread Group 1-7,text,true,,144656,232,5,5,https://www.yahoo.com/,14,0,0
+1728118346619,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118346633,413,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,144422,116,5,5,https://www.yahoo.com/,396,0,0
+1728118346616,485,HTTP Request,200,OK,Thread Group 1-5,text,true,,143982,232,6,6,https://www.yahoo.com/,16,0,0
+1728118346616,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118346633,468,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143748,116,6,6,https://www.yahoo.com/,438,0,0
+1728118346773,422,HTTP Request,200,OK,Thread Group 1-6,text,true,,143983,232,6,6,https://www.yahoo.com/,14,0,0
+1728118346773,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118346787,408,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143749,116,6,6,https://www.yahoo.com/,389,0,0
+1728118346599,660,HTTP Request,200,OK,Thread Group 1-8,text,true,,144558,232,6,6,https://www.yahoo.com/,20,0,0
+1728118346599,20,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,6,6,http://www.yahoo.com/,20,0,0
+1728118346619,640,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,144324,116,6,6,https://www.yahoo.com/,607,0,0
+1728118347046,458,HTTP Request,200,OK,Thread Group 1-7,text,true,,144321,232,6,6,https://www.yahoo.com/,14,0,0
+1728118347046,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118347060,444,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,144087,116,6,6,https://www.yahoo.com/,417,0,0
+1728118347101,414,HTTP Request,200,OK,Thread Group 1-5,text,true,,143800,232,6,6,https://www.yahoo.com/,14,0,0
+1728118347101,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118347115,400,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,143566,116,6,6,https://www.yahoo.com/,377,0,0
+1728118347195,413,HTTP Request,200,OK,Thread Group 1-6,text,true,,143794,232,5,5,https://www.yahoo.com/,14,0,0
+1728118347195,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118347209,399,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143560,116,5,5,https://www.yahoo.com/,381,0,0
+1728118345875,1790,HTTP Request,200,OK,Thread Group 1-4,text,true,,222901,232,5,5,https://www.yahoo.com/,16,0,0
+1728118345875,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,5,5,http://www.yahoo.com/,16,0,0
+1728118345891,1774,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,222667,116,5,5,https://www.yahoo.com/,1309,0,0
+1728118347085,585,HTTP Request,200,OK,Thread Group 1-9,text,true,,143592,232,5,5,https://www.yahoo.com/,28,0,14
+1728118347085,28,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,5,5,http://www.yahoo.com/,28,0,14
+1728118347113,557,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,143358,116,5,5,https://www.yahoo.com/,507,0,36
+1728118347505,469,HTTP Request,200,OK,Thread Group 1-7,text,true,,143893,232,5,5,https://www.yahoo.com/,13,0,0
+1728118347505,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118347519,455,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,143659,116,5,5,https://www.yahoo.com/,419,0,0
+1728118347259,832,HTTP Request,200,OK,Thread Group 1-8,text,true,,143907,232,6,6,https://www.yahoo.com/,16,0,0
+1728118347259,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118347275,816,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143673,116,6,6,https://www.yahoo.com/,781,0,0
+1728118347665,455,HTTP Request,200,OK,Thread Group 1-4,text,true,,143862,232,6,6,https://www.yahoo.com/,17,0,0
+1728118347665,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,234,116,6,6,http://www.yahoo.com/,17,0,0
+1728118347682,438,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,143628,116,6,6,https://www.yahoo.com/,414,0,0
+1728118347974,449,HTTP Request,200,OK,Thread Group 1-7,text,true,,144543,232,5,5,https://www.yahoo.com/,15,0,0
+1728118347974,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118347989,434,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,144309,116,5,5,https://www.yahoo.com/,412,0,0
+1728118347670,860,HTTP Request,200,OK,Thread Group 1-9,text,true,,144371,232,5,5,https://www.yahoo.com/,13,0,0
+1728118347670,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118347683,847,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,144137,116,5,5,https://www.yahoo.com/,803,0,0
+1728118348091,470,HTTP Request,200,OK,Thread Group 1-8,text,true,,144314,232,5,5,https://www.yahoo.com/,15,0,0
+1728118348091,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118348106,455,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,144080,116,5,5,https://www.yahoo.com/,419,0,0
+1728118348084,532,HTTP Request,200,OK,Thread Group 1-10,text,true,,144010,232,5,5,https://www.yahoo.com/,36,0,16
+1728118348084,36,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,5,5,http://www.yahoo.com/,36,0,16
+1728118348120,496,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143776,116,5,5,https://www.yahoo.com/,437,0,34
+1728118348423,420,HTTP Request,200,OK,Thread Group 1-7,text,true,,143887,232,5,5,https://www.yahoo.com/,14,0,0
+1728118348423,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118348437,406,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,143653,116,5,5,https://www.yahoo.com/,388,0,0
+1728118348530,513,HTTP Request,200,OK,Thread Group 1-9,text,true,,143999,232,5,5,https://www.yahoo.com/,18,0,0
+1728118348530,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,5,5,http://www.yahoo.com/,18,0,0
+1728118348548,495,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,143765,116,5,5,https://www.yahoo.com/,470,0,0
+1728118348843,421,HTTP Request,200,OK,Thread Group 1-7,text,true,,144076,232,6,6,https://www.yahoo.com/,14,0,0
+1728118348843,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118348857,407,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,143842,116,6,6,https://www.yahoo.com/,386,0,0
+1728118348561,805,HTTP Request,200,OK,Thread Group 1-8,text,true,,143916,232,6,6,https://www.yahoo.com/,17,0,0
+1728118348561,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,6,6,http://www.yahoo.com/,17,0,0
+1728118348578,788,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143682,116,6,6,https://www.yahoo.com/,750,0,0
+1728118348616,1101,HTTP Request,200,OK,Thread Group 1-10,text,true,,144111,232,6,6,https://www.yahoo.com/,14,0,0
+1728118348616,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118348630,1087,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143877,116,6,6,https://www.yahoo.com/,634,0,0
+1728118349085,680,HTTP Request,200,OK,Thread Group 1-11,text,true,,143912,232,6,6,https://www.yahoo.com/,158,0,127
+1728118349085,158,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,6,6,http://www.yahoo.com/,158,0,127
+1728118349243,522,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,143678,116,6,6,https://www.yahoo.com/,476,0,30
+1728118349043,734,HTTP Request,200,OK,Thread Group 1-9,text,true,,143693,232,6,6,https://www.yahoo.com/,13,0,0
+1728118349043,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118349056,721,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,143459,116,6,6,https://www.yahoo.com/,683,0,0
+1728118349366,655,HTTP Request,200,OK,Thread Group 1-8,text,true,,143928,232,6,6,https://www.yahoo.com/,15,0,0
+1728118349366,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118349381,640,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143694,116,6,6,https://www.yahoo.com/,604,0,0
+1728118349718,422,HTTP Request,200,OK,Thread Group 1-10,text,true,,144023,232,7,7,https://www.yahoo.com/,14,0,0
+1728118349718,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118349732,408,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143789,116,7,7,https://www.yahoo.com/,383,0,0
+1728118349765,408,HTTP Request,200,OK,Thread Group 1-11,text,true,,144329,232,7,7,https://www.yahoo.com/,15,0,0
+1728118349765,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,7,7,http://www.yahoo.com/,15,0,0
+1728118349780,393,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,144095,116,7,7,https://www.yahoo.com/,363,0,0
+1728118349264,1109,HTTP Request,200,OK,Thread Group 1-7,text,true,,144321,232,7,7,https://www.yahoo.com/,16,0,0
+1728118349264,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,234,116,7,7,http://www.yahoo.com/,16,0,0
+1728118349280,1093,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,144087,116,7,7,https://www.yahoo.com/,630,0,0
+1728118349777,640,HTTP Request,200,OK,Thread Group 1-9,text,true,,144328,232,6,6,https://www.yahoo.com/,17,0,0
+1728118349777,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,6,6,http://www.yahoo.com/,17,0,0
+1728118349794,623,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,144094,116,6,6,https://www.yahoo.com/,591,0,0
+1728118350140,424,HTTP Request,200,OK,Thread Group 1-10,text,true,,143886,232,6,6,https://www.yahoo.com/,17,0,0
+1728118350140,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,6,6,http://www.yahoo.com/,17,0,0
+1728118350157,407,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143652,116,6,6,https://www.yahoo.com/,387,0,0
+1728118350173,405,HTTP Request,200,OK,Thread Group 1-11,text,true,,143552,232,6,6,https://www.yahoo.com/,14,0,0
+1728118350173,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118350187,391,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,143318,116,6,6,https://www.yahoo.com/,370,0,0
+1728118350085,701,HTTP Request,200,OK,Thread Group 1-12,text,true,,222901,232,6,6,https://www.yahoo.com/,29,0,14
+1728118350085,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,6,6,http://www.yahoo.com/,29,0,14
+1728118350114,672,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,222667,116,6,6,https://www.yahoo.com/,619,0,42
+1728118350022,856,HTTP Request,200,OK,Thread Group 1-8,text,true,,143696,232,6,6,https://www.yahoo.com/,16,0,0
+1728118350022,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118350038,840,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143462,116,6,6,https://www.yahoo.com/,801,0,0
+1728118350578,424,HTTP Request,200,OK,Thread Group 1-11,text,true,,143725,232,6,6,https://www.yahoo.com/,14,0,0
+1728118350578,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118350593,409,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,143491,116,6,6,https://www.yahoo.com/,383,0,0
+1728118350564,441,HTTP Request,200,OK,Thread Group 1-10,text,true,,144007,232,6,6,https://www.yahoo.com/,14,0,0
+1728118350564,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118350578,427,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143773,116,6,6,https://www.yahoo.com/,407,0,0
+1728118350786,384,HTTP Request,200,OK,Thread Group 1-12,text,true,,143997,232,7,7,https://www.yahoo.com/,14,0,0
+1728118350786,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118350800,370,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,143763,116,7,7,https://www.yahoo.com/,354,0,0
+1728118350879,445,HTTP Request,200,OK,Thread Group 1-8,text,true,,143687,232,7,7,https://www.yahoo.com/,16,0,0
+1728118350879,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,7,7,http://www.yahoo.com/,16,0,0
+1728118350895,429,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143453,116,7,7,https://www.yahoo.com/,408,0,0
+1728118350417,1016,HTTP Request,200,OK,Thread Group 1-9,text,true,,144361,232,7,7,https://www.yahoo.com/,13,0,0
+1728118350417,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,7,7,http://www.yahoo.com/,13,0,0
+1728118350430,1003,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,144127,116,7,7,https://www.yahoo.com/,534,0,0
+1728118351005,432,HTTP Request,200,OK,Thread Group 1-10,text,true,,143791,232,7,7,https://www.yahoo.com/,18,0,0
+1728118351005,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,7,7,http://www.yahoo.com/,18,0,0
+1728118351023,414,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143557,116,7,7,https://www.yahoo.com/,395,0,0
+1728118351003,454,HTTP Request,200,OK,Thread Group 1-11,text,true,,144357,232,7,7,https://www.yahoo.com/,15,0,0
+1728118351003,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,7,7,http://www.yahoo.com/,15,0,0
+1728118351018,439,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,144123,116,7,7,https://www.yahoo.com/,415,0,0
+1728118347608,3910,HTTP Request,200,OK,Thread Group 1-6,text,true,,143990,232,7,7,https://www.yahoo.com/,15,0,0
+1728118347608,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,7,7,http://www.yahoo.com/,15,0,0
+1728118347623,3895,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143756,116,7,7,https://www.yahoo.com/,3435,0,0
+1728118351170,408,HTTP Request,200,OK,Thread Group 1-12,text,true,,143887,232,7,7,https://www.yahoo.com/,14,0,0
+1728118351170,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118351185,393,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,143653,116,7,7,https://www.yahoo.com/,376,0,0
+1728118351083,524,HTTP Request,200,OK,Thread Group 1-13,text,true,,144283,232,7,7,https://www.yahoo.com/,29,0,14
+1728118351083,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,7,7,http://www.yahoo.com/,29,0,14
+1728118351112,495,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,144049,116,7,7,https://www.yahoo.com/,443,0,31
+1728118351324,455,HTTP Request,200,OK,Thread Group 1-8,text,true,,144193,232,7,7,https://www.yahoo.com/,15,0,0
+1728118351324,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,7,7,http://www.yahoo.com/,15,0,0
+1728118351339,440,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143959,116,7,7,https://www.yahoo.com/,421,0,0
+1728118351457,412,HTTP Request,200,OK,Thread Group 1-11,text,true,,144349,232,7,7,https://www.yahoo.com/,14,0,0
+1728118351457,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118351472,397,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,144115,116,7,7,https://www.yahoo.com/,380,0,0
+1728118351518,430,HTTP Request,200,OK,Thread Group 1-6,text,true,,143998,232,7,7,https://www.yahoo.com/,14,0,0
+1728118351518,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118351532,416,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,143764,116,7,7,https://www.yahoo.com/,393,0,0
+1728118351578,404,HTTP Request,200,OK,Thread Group 1-12,text,true,,145994,232,6,6,https://www.yahoo.com/,16,0,0
+1728118351578,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118351594,388,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,145760,116,6,6,https://www.yahoo.com/,373,0,0
+1728118351607,442,HTTP Request,200,OK,Thread Group 1-13,text,true,,144044,232,6,6,https://www.yahoo.com/,15,0,0
+1728118351607,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118351622,427,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143810,116,6,6,https://www.yahoo.com/,399,0,0
+1728118351438,632,HTTP Request,200,OK,Thread Group 1-10,text,true,,223021,232,6,6,https://www.yahoo.com/,19,0,0
+1728118351438,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,6,6,http://www.yahoo.com/,19,0,0
+1728118351457,613,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,222787,116,6,6,https://www.yahoo.com/,576,0,0
+1728118351779,426,HTTP Request,200,OK,Thread Group 1-8,text,true,,143807,232,7,7,https://www.yahoo.com/,16,0,0
+1728118351779,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,234,116,7,7,http://www.yahoo.com/,16,0,0
+1728118351795,410,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,143573,116,7,7,https://www.yahoo.com/,387,0,0
+1728118351869,395,HTTP Request,200,OK,Thread Group 1-11,text,true,,143997,232,6,6,https://www.yahoo.com/,14,0,0
+1728118351869,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118351883,381,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,143763,116,6,6,https://www.yahoo.com/,352,0,0
+1728118351433,895,HTTP Request,200,OK,Thread Group 1-9,text,true,,143998,232,6,6,https://www.yahoo.com/,19,0,0
+1728118351433,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,6,6,http://www.yahoo.com/,19,0,0
+1728118351452,876,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,143764,116,6,6,https://www.yahoo.com/,829,0,0
+1728118351982,465,HTTP Request,200,OK,Thread Group 1-12,text,true,,144006,232,6,6,https://www.yahoo.com/,14,0,0
+1728118351982,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118351996,451,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,143772,116,6,6,https://www.yahoo.com/,431,0,0
+1728118352049,402,HTTP Request,200,OK,Thread Group 1-13,text,true,,143902,232,6,6,https://www.yahoo.com/,19,0,0
+1728118352049,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,6,6,http://www.yahoo.com/,19,0,0
+1728118352068,383,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143668,116,6,6,https://www.yahoo.com/,366,0,0
+1728118352070,471,HTTP Request,200,OK,Thread Group 1-10,text,true,,144321,232,6,6,https://www.yahoo.com/,13,0,0
+1728118352070,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118352083,458,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,144087,116,6,6,https://www.yahoo.com/,439,0,0
+1728118352083,536,HTTP Request,200,OK,Thread Group 1-14,text,true,,144386,232,6,6,https://www.yahoo.com/,28,0,14
+1728118352083,28,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,6,6,http://www.yahoo.com/,28,0,14
+1728118352111,508,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144152,116,6,6,https://www.yahoo.com/,420,0,36
+1728118352328,396,HTTP Request,200,OK,Thread Group 1-9,text,true,,143902,232,6,6,https://www.yahoo.com/,15,0,0
+1728118352328,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118352343,381,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,143668,116,6,6,https://www.yahoo.com/,361,0,0
+1728118352264,462,HTTP Request,200,OK,Thread Group 1-11,text,true,,144012,232,6,6,https://www.yahoo.com/,15,0,0
+1728118352264,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118352279,447,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,143778,116,6,6,https://www.yahoo.com/,414,0,0
+1728118352541,456,HTTP Request,200,OK,Thread Group 1-10,text,true,,143892,232,6,6,https://www.yahoo.com/,14,0,0
+1728118352541,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118352555,442,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143658,116,6,6,https://www.yahoo.com/,419,0,0
+1728118352727,399,HTTP Request,200,OK,Thread Group 1-11,text,true,,143998,232,7,7,https://www.yahoo.com/,14,0,0
+1728118352727,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118352741,385,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,143764,116,7,7,https://www.yahoo.com/,363,0,0
+1728118352724,429,HTTP Request,200,OK,Thread Group 1-9,text,true,,143826,232,7,7,https://www.yahoo.com/,16,0,0
+1728118352724,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,7,7,http://www.yahoo.com/,16,0,0
+1728118352740,413,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,143592,116,7,7,https://www.yahoo.com/,387,0,0
+1728118352451,731,HTTP Request,200,OK,Thread Group 1-13,text,true,,144012,232,7,7,https://www.yahoo.com/,71,0,0
+1728118352451,71,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,7,7,http://www.yahoo.com/,71,0,0
+1728118352522,660,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143778,116,7,7,https://www.yahoo.com/,619,0,0
+1728118352619,637,HTTP Request,200,OK,Thread Group 1-14,text,true,,145219,232,7,7,https://www.yahoo.com/,13,0,0
+1728118352619,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,7,7,http://www.yahoo.com/,13,0,0
+1728118352632,624,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144985,116,7,7,https://www.yahoo.com/,592,0,0
+1728118352997,402,HTTP Request,200,OK,Thread Group 1-10,text,true,,144015,232,7,7,https://www.yahoo.com/,16,0,0
+1728118352997,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,234,116,7,7,http://www.yahoo.com/,16,0,0
+1728118353013,386,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,143781,116,7,7,https://www.yahoo.com/,367,0,0
+1728118353127,412,HTTP Request,200,OK,Thread Group 1-11,text,true,,144512,232,6,6,https://www.yahoo.com/,19,0,0
+1728118353127,20,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,234,116,6,6,http://www.yahoo.com/,19,0,0
+1728118353147,392,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,144278,116,6,6,https://www.yahoo.com/,372,0,0
+1728118353085,525,HTTP Request,200,OK,Thread Group 1-15,text,true,,143922,232,5,5,https://www.yahoo.com/,42,0,16
+1728118353085,42,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,5,5,http://www.yahoo.com/,42,0,16
+1728118353127,483,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143688,116,5,5,https://www.yahoo.com/,438,0,49
+1728118353182,435,HTTP Request,200,OK,Thread Group 1-13,text,true,,144055,232,5,5,https://www.yahoo.com/,16,0,0
+1728118353182,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,5,5,http://www.yahoo.com/,16,0,0
+1728118353198,419,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143821,116,5,5,https://www.yahoo.com/,400,0,0
+1728118353256,387,HTTP Request,200,OK,Thread Group 1-14,text,true,,143923,232,5,5,https://www.yahoo.com/,12,0,0
+1728118353256,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,5,5,http://www.yahoo.com/,12,0,0
+1728118353268,375,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,143689,116,5,5,https://www.yahoo.com/,350,0,0
+1728118353154,498,HTTP Request,200,OK,Thread Group 1-9,text,true,,144345,232,5,5,https://www.yahoo.com/,19,0,0
+1728118353154,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,234,116,5,5,http://www.yahoo.com/,19,0,0
+1728118353173,479,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,144111,116,5,5,https://www.yahoo.com/,430,0,0
+1728118353618,409,HTTP Request,200,OK,Thread Group 1-13,text,true,,144387,232,4,4,https://www.yahoo.com/,19,0,0
+1728118353618,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,4,4,http://www.yahoo.com/,19,0,0
+1728118353637,390,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,144153,116,4,4,https://www.yahoo.com/,364,0,0
+1728118353610,473,HTTP Request,200,OK,Thread Group 1-15,text,true,,143921,232,4,4,https://www.yahoo.com/,23,0,0
+1728118353610,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,4,4,http://www.yahoo.com/,23,0,0
+1728118353633,450,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143687,116,4,4,https://www.yahoo.com/,418,0,0
+1728118353643,447,HTTP Request,200,OK,Thread Group 1-14,text,true,,144339,232,5,5,https://www.yahoo.com/,13,0,0
+1728118353643,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118353656,434,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144105,116,5,5,https://www.yahoo.com/,416,0,0
+1728118354027,411,HTTP Request,200,OK,Thread Group 1-13,text,true,,143900,232,5,5,https://www.yahoo.com/,14,0,0
+1728118354027,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118354041,397,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143666,116,5,5,https://www.yahoo.com/,372,0,0
+1728118354090,406,HTTP Request,200,OK,Thread Group 1-14,text,true,,144566,232,5,5,https://www.yahoo.com/,12,0,0
+1728118354090,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,5,5,http://www.yahoo.com/,12,0,0
+1728118354103,393,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144332,116,5,5,https://www.yahoo.com/,367,0,0
+1728118354083,413,HTTP Request,200,OK,Thread Group 1-15,text,true,,143552,232,5,5,https://www.yahoo.com/,16,0,0
+1728118354083,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,5,5,http://www.yahoo.com/,16,0,0
+1728118354099,397,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143318,116,5,5,https://www.yahoo.com/,371,0,0
+1728118354084,809,HTTP Request,200,OK,Thread Group 1-16,text,true,,143798,232,5,5,https://www.yahoo.com/,31,0,15
+1728118354084,31,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,5,5,http://www.yahoo.com/,31,0,15
+1728118354115,778,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143564,116,5,5,https://www.yahoo.com/,729,0,36
+1728118354496,529,HTTP Request,200,OK,Thread Group 1-15,text,true,,143923,232,5,5,https://www.yahoo.com/,15,0,0
+1728118354496,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118354511,514,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143689,116,5,5,https://www.yahoo.com/,371,0,0
+1728118354496,531,HTTP Request,200,OK,Thread Group 1-14,text,true,,144328,232,5,5,https://www.yahoo.com/,13,0,0
+1728118354496,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118354509,518,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144094,116,5,5,https://www.yahoo.com/,385,0,0
+1728118354438,597,HTTP Request,200,OK,Thread Group 1-13,text,true,,143989,232,5,5,https://www.yahoo.com/,14,0,0
+1728118354438,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118354452,583,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143755,116,5,5,https://www.yahoo.com/,426,0,0
+1728118354894,583,HTTP Request,200,OK,Thread Group 1-16,text,true,,144328,232,6,6,https://www.yahoo.com/,133,0,0
+1728118354894,133,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,6,6,http://www.yahoo.com/,133,0,0
+1728118355027,450,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,144094,116,6,6,https://www.yahoo.com/,404,0,0
+1728118355025,475,HTTP Request,200,OK,Thread Group 1-15,text,true,,144357,232,6,6,https://www.yahoo.com/,16,0,0
+1728118355025,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118355041,459,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,144123,116,6,6,https://www.yahoo.com/,429,0,0
+1728118355027,476,HTTP Request,200,OK,Thread Group 1-14,text,true,,144448,232,6,6,https://www.yahoo.com/,13,0,0
+1728118355027,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118355040,463,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144214,116,6,6,https://www.yahoo.com/,442,0,0
+1728118355084,583,HTTP Request,200,OK,Thread Group 1-17,text,true,,143894,232,6,6,https://www.yahoo.com/,117,0,88
+1728118355084,117,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,117,0,88
+1728118355201,466,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,143660,116,6,6,https://www.yahoo.com/,419,0,35
+1728118355035,810,HTTP Request,200,OK,Thread Group 1-13,text,true,,143579,232,6,6,https://www.yahoo.com/,124,0,0
+1728118355035,124,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,6,6,http://www.yahoo.com/,124,0,0
+1728118355159,686,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,143345,116,6,6,https://www.yahoo.com/,658,0,0
+1728118355500,390,HTTP Request,200,OK,Thread Group 1-15,text,true,,144550,232,6,6,https://www.yahoo.com/,16,0,0
+1728118355500,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118355516,374,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,144316,116,6,6,https://www.yahoo.com/,355,0,0
+1728118355503,407,HTTP Request,200,OK,Thread Group 1-14,text,true,,144528,232,6,6,https://www.yahoo.com/,13,0,0
+1728118355503,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118355516,394,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,144294,116,6,6,https://www.yahoo.com/,375,0,0
+1728118352447,3533,HTTP Request,200,OK,Thread Group 1-12,text,true,,222901,232,6,6,https://www.yahoo.com/,16,0,0
+1728118352447,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118352463,3517,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,222667,116,6,6,https://www.yahoo.com/,1715,0,0
+1728118355667,398,HTTP Request,200,OK,Thread Group 1-17,text,true,,143717,232,6,6,https://www.yahoo.com/,14,0,0
+1728118355667,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118355681,384,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,143483,116,6,6,https://www.yahoo.com/,361,0,0
+1728118355845,433,HTTP Request,200,OK,Thread Group 1-13,text,true,,144548,232,7,7,https://www.yahoo.com/,14,0,0
+1728118355845,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,234,116,7,7,http://www.yahoo.com/,14,0,0
+1728118355860,418,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,144314,116,7,7,https://www.yahoo.com/,400,0,0
+1728118355890,414,HTTP Request,200,OK,Thread Group 1-15,text,true,,143983,232,6,6,https://www.yahoo.com/,14,0,0
+1728118355890,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118355905,399,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143749,116,6,6,https://www.yahoo.com/,375,0,0
+1728118355910,414,HTTP Request,200,OK,Thread Group 1-14,text,true,,143616,232,6,6,https://www.yahoo.com/,12,0,0
+1728118355910,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,6,6,http://www.yahoo.com/,12,0,0
+1728118355922,402,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,143382,116,6,6,https://www.yahoo.com/,385,0,0
+1728118355477,881,HTTP Request,200,OK,Thread Group 1-16,text,true,,143922,232,6,6,https://www.yahoo.com/,23,0,0
+1728118355477,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,6,6,http://www.yahoo.com/,23,0,0
+1728118355500,858,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143688,116,6,6,https://www.yahoo.com/,817,0,0
+1728118356065,436,HTTP Request,200,OK,Thread Group 1-17,text,true,,144012,232,6,6,https://www.yahoo.com/,13,0,0
+1728118356065,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118356078,423,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,143778,116,6,6,https://www.yahoo.com/,404,0,0
+1728118355980,645,HTTP Request,200,OK,Thread Group 1-12,text,true,,222901,232,6,6,https://www.yahoo.com/,14,0,0
+1728118355980,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118355994,631,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,222667,116,6,6,https://www.yahoo.com/,574,0,0
+1728118356324,436,HTTP Request,200,OK,Thread Group 1-14,text,true,,145469,232,6,6,https://www.yahoo.com/,12,0,0
+1728118356324,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,234,116,6,6,http://www.yahoo.com/,12,0,0
+1728118356337,423,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,145235,116,6,6,https://www.yahoo.com/,398,0,0
+1728118356304,464,HTTP Request,200,OK,Thread Group 1-15,text,true,,144176,232,5,5,https://www.yahoo.com/,14,0,0
+1728118356304,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118356318,450,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143942,116,5,5,https://www.yahoo.com/,427,0,0
+1728118356358,420,HTTP Request,200,OK,Thread Group 1-16,text,true,,145434,232,5,5,https://www.yahoo.com/,14,0,0
+1728118356358,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118356372,406,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,145200,116,5,5,https://www.yahoo.com/,379,0,0
+1728118356084,726,HTTP Request,200,OK,Thread Group 1-18,text,true,,145458,232,5,5,https://www.yahoo.com/,29,0,14
+1728118356084,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,5,5,http://www.yahoo.com/,29,0,14
+1728118356113,697,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,145224,116,5,5,https://www.yahoo.com/,648,0,36
+1728118356626,390,HTTP Request,200,OK,Thread Group 1-12,text,true,,144551,232,5,5,https://www.yahoo.com/,13,0,0
+1728118356626,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118356639,377,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,144317,116,5,5,https://www.yahoo.com/,356,0,0
+1728118356768,403,HTTP Request,200,OK,Thread Group 1-15,text,true,,143516,232,6,6,https://www.yahoo.com/,13,0,0
+1728118356768,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118356781,390,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,143282,116,6,6,https://www.yahoo.com/,370,0,0
+1728118356778,418,HTTP Request,200,OK,Thread Group 1-16,text,true,,143593,232,6,6,https://www.yahoo.com/,18,0,0
+1728118356778,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,6,6,http://www.yahoo.com/,18,0,0
+1728118356796,400,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143359,116,6,6,https://www.yahoo.com/,383,0,0
+1728118357016,403,HTTP Request,200,OK,Thread Group 1-12,text,true,,143799,232,6,6,https://www.yahoo.com/,15,0,0
+1728118357016,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118357031,388,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,143565,116,6,6,https://www.yahoo.com/,370,0,0
+1728118356501,984,HTTP Request,200,OK,Thread Group 1-17,text,true,,143917,232,6,6,https://www.yahoo.com/,16,0,0
+1728118356501,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118356518,967,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,143683,116,6,6,https://www.yahoo.com/,922,0,0
+1728118357085,468,HTTP Request,200,OK,Thread Group 1-19,text,true,,144343,232,6,6,https://www.yahoo.com/,27,0,14
+1728118357085,27,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,6,6,http://www.yahoo.com/,27,0,14
+1728118357113,440,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,144109,116,6,6,https://www.yahoo.com/,397,0,31
+1728118357172,411,HTTP Request,200,OK,Thread Group 1-15,text,true,,144337,232,6,6,https://www.yahoo.com/,17,0,0
+1728118357172,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,234,116,6,6,http://www.yahoo.com/,17,0,0
+1728118357189,394,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,144103,116,6,6,https://www.yahoo.com/,374,0,0
+1728118357196,445,HTTP Request,200,OK,Thread Group 1-16,text,true,,144319,232,5,5,https://www.yahoo.com/,14,0,0
+1728118357196,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118357210,431,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,144085,116,5,5,https://www.yahoo.com/,415,0,0
+1728118357419,442,HTTP Request,200,OK,Thread Group 1-12,text,true,,143583,232,5,5,https://www.yahoo.com/,15,0,0
+1728118357419,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118357434,427,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,143349,116,5,5,https://www.yahoo.com/,406,0,0
+1728118357485,392,HTTP Request,200,OK,Thread Group 1-17,text,true,,145614,232,4,4,https://www.yahoo.com/,13,0,0
+1728118357485,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,4,4,http://www.yahoo.com/,13,0,0
+1728118357498,379,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,145380,116,4,4,https://www.yahoo.com/,353,0,0
+1728118356810,1087,HTTP Request,200,OK,Thread Group 1-18,text,true,,222901,232,4,4,https://www.yahoo.com/,15,0,0
+1728118356810,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,4,4,http://www.yahoo.com/,15,0,0
+1728118356825,1072,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,222667,116,4,4,https://www.yahoo.com/,994,0,0
+1728118357553,409,HTTP Request,200,OK,Thread Group 1-19,text,true,,144050,232,4,4,https://www.yahoo.com/,14,0,0
+1728118357553,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,4,4,http://www.yahoo.com/,14,0,0
+1728118357567,395,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,143816,116,4,4,https://www.yahoo.com/,373,0,0
+1728118357641,415,HTTP Request,200,OK,Thread Group 1-16,text,true,,144169,232,4,4,https://www.yahoo.com/,19,0,0
+1728118357641,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,4,4,http://www.yahoo.com/,19,0,0
+1728118357660,396,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143935,116,4,4,https://www.yahoo.com/,380,0,0
+1728118357877,408,HTTP Request,200,OK,Thread Group 1-17,text,true,,144337,232,5,5,https://www.yahoo.com/,18,0,0
+1728118357877,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,5,5,http://www.yahoo.com/,18,0,0
+1728118357895,390,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,144103,116,5,5,https://www.yahoo.com/,366,0,0
+1728118357897,399,HTTP Request,200,OK,Thread Group 1-18,text,true,,143892,232,5,5,https://www.yahoo.com/,15,0,0
+1728118357897,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118357912,384,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,143658,116,5,5,https://www.yahoo.com/,361,0,0
+1728118357962,428,HTTP Request,200,OK,Thread Group 1-19,text,true,,144565,232,5,5,https://www.yahoo.com/,12,0,0
+1728118357962,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,5,5,http://www.yahoo.com/,12,0,0
+1728118357974,416,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,144331,116,5,5,https://www.yahoo.com/,398,0,0
+1728118358056,383,HTTP Request,200,OK,Thread Group 1-16,text,true,,143921,232,5,5,https://www.yahoo.com/,14,0,0
+1728118358056,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118358070,369,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143687,116,5,5,https://www.yahoo.com/,354,0,0
+1728118358085,483,HTTP Request,200,OK,Thread Group 1-20,text,true,,144572,232,5,5,https://www.yahoo.com/,29,0,15
+1728118358085,29,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,5,5,http://www.yahoo.com/,29,0,15
+1728118358114,454,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,144338,116,5,5,https://www.yahoo.com/,411,0,30
+1728118358296,404,HTTP Request,200,OK,Thread Group 1-18,text,true,,144564,232,5,5,https://www.yahoo.com/,14,0,0
+1728118358296,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118358310,390,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,144330,116,5,5,https://www.yahoo.com/,370,0,0
+1728118358390,386,HTTP Request,200,OK,Thread Group 1-19,text,true,,143759,232,5,5,https://www.yahoo.com/,14,0,0
+1728118358390,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118358404,372,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,143525,116,5,5,https://www.yahoo.com/,357,0,0
+1728118358440,460,HTTP Request,200,OK,Thread Group 1-16,text,true,,143997,232,5,5,https://www.yahoo.com/,14,0,0
+1728118358440,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118358454,446,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143763,116,5,5,https://www.yahoo.com/,425,0,0
+1728118358568,391,HTTP Request,200,OK,Thread Group 1-20,text,true,,144117,232,5,5,https://www.yahoo.com/,14,0,0
+1728118358568,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118358582,377,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,143883,116,5,5,https://www.yahoo.com/,352,0,0
+1728118358700,428,HTTP Request,200,OK,Thread Group 1-18,text,true,,144372,232,6,6,https://www.yahoo.com/,15,0,0
+1728118358700,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118358715,413,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,144138,116,6,6,https://www.yahoo.com/,392,0,0
+1728118358776,382,HTTP Request,200,OK,Thread Group 1-19,text,true,,144358,232,6,6,https://www.yahoo.com/,13,0,0
+1728118358776,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118358789,369,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,144124,116,6,6,https://www.yahoo.com/,354,0,0
+1728118358285,910,HTTP Request,200,OK,Thread Group 1-17,text,true,,144423,232,6,6,https://www.yahoo.com/,13,0,0
+1728118358285,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118358298,897,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,144189,116,6,6,https://www.yahoo.com/,438,0,0
+1728118358960,410,HTTP Request,200,OK,Thread Group 1-20,text,true,,144484,232,6,6,https://www.yahoo.com/,13,0,0
+1728118358960,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118358973,397,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,144250,116,6,6,https://www.yahoo.com/,374,0,0
+1728118359128,409,HTTP Request,200,OK,Thread Group 1-18,text,true,,143909,232,6,6,https://www.yahoo.com/,18,0,0
+1728118359128,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,6,6,http://www.yahoo.com/,18,0,0
+1728118359147,390,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,143675,116,6,6,https://www.yahoo.com/,369,0,0
+1728118359084,507,HTTP Request,200,OK,Thread Group 1-21,text,true,,143737,232,6,6,https://www.yahoo.com/,31,0,13
+1728118359084,31,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,234,116,6,6,http://www.yahoo.com/,31,0,13
+1728118359115,476,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,143503,116,6,6,https://www.yahoo.com/,422,0,40
+1728118359158,634,HTTP Request,200,OK,Thread Group 1-19,text,true,,223021,232,6,6,https://www.yahoo.com/,12,0,0
+1728118359158,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,6,6,http://www.yahoo.com/,12,0,0
+1728118359170,622,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,222787,116,6,6,https://www.yahoo.com/,594,0,0
+1728118359370,450,HTTP Request,200,OK,Thread Group 1-20,text,true,,144109,232,6,6,https://www.yahoo.com/,13,0,0
+1728118359370,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,6,6,http://www.yahoo.com/,13,0,0
+1728118359383,437,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,143875,116,6,6,https://www.yahoo.com/,412,0,0
+1728118359195,636,HTTP Request,200,OK,Thread Group 1-17,text,true,,222902,232,6,6,https://www.yahoo.com/,16,0,0
+1728118359195,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118359211,620,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,222668,116,6,6,https://www.yahoo.com/,581,0,0
+1728118359537,420,HTTP Request,200,OK,Thread Group 1-18,text,true,,145185,232,6,6,https://www.yahoo.com/,19,0,0
+1728118359537,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,6,6,http://www.yahoo.com/,19,0,0
+1728118359556,401,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,144951,116,6,6,https://www.yahoo.com/,376,0,0
+1728118358900,1114,HTTP Request,200,OK,Thread Group 1-16,text,true,,143720,232,6,6,https://www.yahoo.com/,14,0,0
+1728118358900,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118358914,1100,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,143486,116,6,6,https://www.yahoo.com/,642,0,0
+1728118359592,445,HTTP Request,200,OK,Thread Group 1-21,text,true,,144550,232,5,5,https://www.yahoo.com/,13,0,0
+1728118359592,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118359605,432,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,144316,116,5,5,https://www.yahoo.com/,409,0,0
+1728118359792,400,HTTP Request,200,OK,Thread Group 1-19,text,true,,143914,232,6,6,https://www.yahoo.com/,16,0,0
+1728118359792,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,6,6,http://www.yahoo.com/,16,0,0
+1728118359808,384,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,143680,116,6,6,https://www.yahoo.com/,372,0,0
+1728118359820,408,HTTP Request,200,OK,Thread Group 1-20,text,true,,143878,232,6,6,https://www.yahoo.com/,14,0,0
+1728118359820,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118359834,394,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,143644,116,6,6,https://www.yahoo.com/,367,0,0
+1728118359831,405,HTTP Request,200,OK,Thread Group 1-17,text,true,,144713,232,6,6,https://www.yahoo.com/,14,0,0
+1728118359831,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118359845,391,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,144479,116,6,6,https://www.yahoo.com/,368,0,0
+1728118359957,444,HTTP Request,200,OK,Thread Group 1-18,text,true,,144012,232,6,6,https://www.yahoo.com/,15,0,0
+1728118359957,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118359972,429,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,143778,116,6,6,https://www.yahoo.com/,400,0,0
+1728118360037,407,HTTP Request,200,OK,Thread Group 1-21,text,true,,143576,232,6,6,https://www.yahoo.com/,14,0,0
+1728118360037,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118360051,393,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,143342,116,6,6,https://www.yahoo.com/,374,0,0
+1728118360085,490,HTTP Request,200,OK,Thread Group 1-22,text,true,,143743,232,6,6,https://www.yahoo.com/,31,0,15
+1728118360085,31,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,234,116,6,6,http://www.yahoo.com/,31,0,15
+1728118360116,459,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,143509,116,6,6,https://www.yahoo.com/,414,0,37
+1728118360192,445,HTTP Request,200,OK,Thread Group 1-19,text,true,,143878,232,6,6,https://www.yahoo.com/,15,0,0
+1728118360192,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,6,6,http://www.yahoo.com/,15,0,0
+1728118360207,430,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,143644,116,6,6,https://www.yahoo.com/,418,0,0
+1728118360236,442,HTTP Request,200,OK,Thread Group 1-17,text,true,,143967,232,6,6,https://www.yahoo.com/,14,0,0
+1728118360236,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,234,116,6,6,http://www.yahoo.com/,14,0,0
+1728118360250,428,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,143733,116,6,6,https://www.yahoo.com/,410,0,0
+1728118360401,413,HTTP Request,200,OK,Thread Group 1-18,text,true,,144344,232,5,5,https://www.yahoo.com/,14,0,0
+1728118360401,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118360415,399,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,144110,116,5,5,https://www.yahoo.com/,378,0,0
+1728118360444,396,HTTP Request,200,OK,Thread Group 1-21,text,true,,144344,232,5,5,https://www.yahoo.com/,17,0,0
+1728118360444,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,234,116,5,5,http://www.yahoo.com/,17,0,0
+1728118360461,379,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,144110,116,5,5,https://www.yahoo.com/,363,0,0
+1728118360575,449,HTTP Request,200,OK,Thread Group 1-22,text,true,,143821,232,5,5,https://www.yahoo.com/,15,0,0
+1728118360575,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118360590,434,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,143587,116,5,5,https://www.yahoo.com/,413,0,0
+1728118360637,445,HTTP Request,200,OK,Thread Group 1-19,text,true,,144027,232,5,5,https://www.yahoo.com/,13,0,0
+1728118360637,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118360650,432,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,143793,116,5,5,https://www.yahoo.com/,412,0,0
+1728118360814,518,HTTP Request,200,OK,Thread Group 1-18,text,true,,144541,232,6,6,https://www.yahoo.com/,21,0,0
+1728118360814,21,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,234,116,6,6,http://www.yahoo.com/,21,0,0
+1728118360835,497,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,144307,116,6,6,https://www.yahoo.com/,359,0,0
+1728118360840,516,HTTP Request,200,OK,Thread Group 1-21,text,true,,144312,232,5,5,https://www.yahoo.com/,15,0,0
+1728118360840,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118360855,501,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,144078,116,5,5,https://www.yahoo.com/,477,0,0
+1728118360228,1262,HTTP Request,200,OK,Thread Group 1-20,text,true,,143931,232,5,5,https://www.yahoo.com/,13,0,0
+1728118360228,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,5,5,http://www.yahoo.com/,13,0,0
+1728118360242,1248,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,143697,116,5,5,https://www.yahoo.com/,678,0,0
+1728118361024,487,HTTP Request,200,OK,Thread Group 1-22,text,true,,143966,232,5,5,https://www.yahoo.com/,15,0,0
+1728118361024,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,234,116,5,5,http://www.yahoo.com/,15,0,0
+1728118361039,472,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,143732,116,5,5,https://www.yahoo.com/,451,0,0
+1728118361082,448,HTTP Request,200,OK,Thread Group 1-19,text,true,,143886,232,5,5,https://www.yahoo.com/,14,0,0
+1728118361082,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,234,116,5,5,http://www.yahoo.com/,14,0,0
+1728118361096,434,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,143652,116,5,5,https://www.yahoo.com/,401,0,0
+1728118361085,475,HTTP Request,200,OK,Thread Group 1-23,text,true,,143891,232,4,4,https://www.yahoo.com/,30,0,15
+1728118361085,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,234,116,4,4,http://www.yahoo.com/,30,0,15
+1728118361115,445,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,143657,116,4,4,https://www.yahoo.com/,391,0,31
+1728118361357,530,HTTP Request,200,OK,Thread Group 1-21,text,true,,144534,232,2,2,https://www.yahoo.com/,14,0,0
+1728118361357,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,234,116,2,2,http://www.yahoo.com/,14,0,0
+1728118361371,516,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,144300,116,2,2,https://www.yahoo.com/,488,0,0
+1728118361490,456,HTTP Request,200,OK,Thread Group 1-20,text,true,,143990,232,2,2,https://www.yahoo.com/,22,0,0
+1728118361490,22,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,234,116,2,2,http://www.yahoo.com/,22,0,0
+1728118361512,434,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,143756,116,2,2,https://www.yahoo.com/,408,0,0

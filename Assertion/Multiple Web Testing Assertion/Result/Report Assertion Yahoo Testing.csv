@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728259373874,805,HTTP Request,200,OK,Yahoo 2-1,text,true,,142386,232,1,2,https://www.yahoo.com/,81,0,60
+1728259373874,85,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,81,0,60
+1728259373960,719,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142152,116,1,2,https://www.yahoo.com/,672,0,255
+1728259374680,449,HTTP Request,200,OK,Yahoo 2-1,text,true,,141629,232,1,2,https://www.yahoo.com/,15,0,0
+1728259374680,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259374696,433,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141395,116,1,2,https://www.yahoo.com/,394,0,0
+1728259375129,510,HTTP Request,200,OK,Yahoo 2-1,text,true,,142022,232,1,2,https://www.yahoo.com/,15,0,0
+1728259375129,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259375144,495,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141788,116,1,2,https://www.yahoo.com/,470,0,0
+1728259375639,417,HTTP Request,200,OK,Yahoo 2-1,text,true,,142408,232,1,2,https://www.yahoo.com/,15,0,0
+1728259375639,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259375654,402,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142174,116,1,2,https://www.yahoo.com/,382,0,0
+1728259376056,421,HTTP Request,200,OK,Yahoo 2-1,text,true,,142255,232,1,2,https://www.yahoo.com/,15,0,0
+1728259376056,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259376071,406,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142021,116,1,2,https://www.yahoo.com/,390,0,0
+1728259376478,412,HTTP Request,200,OK,Yahoo 2-1,text,true,,141812,232,1,2,https://www.yahoo.com/,17,0,0
+1728259376478,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,17,0,0
+1728259376495,395,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141578,116,1,2,https://www.yahoo.com/,380,0,0
+1728259376891,1147,HTTP Request,200,OK,Yahoo 2-1,text,true,,141901,232,1,2,https://www.yahoo.com/,15,0,0
+1728259376891,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259376906,1132,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141667,116,1,2,https://www.yahoo.com/,670,0,0
+1728259378039,476,HTTP Request,200,OK,Yahoo 2-1,text,true,,141891,232,1,2,https://www.yahoo.com/,15,0,0
+1728259378039,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259378054,461,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141657,116,1,2,https://www.yahoo.com/,422,0,0
+1728259378515,440,HTTP Request,200,OK,Yahoo 2-1,text,true,,142379,232,1,2,https://www.yahoo.com/,15,0,0
+1728259378515,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259378530,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142145,116,1,2,https://www.yahoo.com/,403,0,0
+1728259378955,446,HTTP Request,200,OK,Yahoo 2-1,text,true,,142414,232,1,2,https://www.yahoo.com/,14,0,0
+1728259378955,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,14,0,0
+1728259378970,431,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142180,116,1,2,https://www.yahoo.com/,412,0,0
+1728259379402,410,HTTP Request,200,OK,Yahoo 2-1,text,true,,141839,232,1,2,https://www.yahoo.com/,15,0,0
+1728259379402,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259379418,394,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141605,116,1,2,https://www.yahoo.com/,379,0,0
+1728259379812,1881,HTTP Request,200,OK,Yahoo 2-1,text,true,,223007,232,1,2,https://www.yahoo.com/,15,0,0
+1728259379812,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259379827,1866,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222773,116,1,2,https://www.yahoo.com/,1393,0,0
+1728259381693,523,HTTP Request,200,OK,Yahoo 2-1,text,true,,141887,232,1,2,https://www.yahoo.com/,77,0,0
+1728259381693,77,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,77,0,0
+1728259381770,446,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141653,116,1,2,https://www.yahoo.com/,420,0,0
+1728259382216,1809,HTTP Request,200,OK,Yahoo 2-1,text,true,,223007,232,1,2,https://www.yahoo.com/,15,0,0
+1728259382216,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,2,http://www.yahoo.com/,15,0,0
+1728259382231,1794,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222773,116,1,2,https://www.yahoo.com/,1317,0,0
+1728259384026,411,HTTP Request,200,OK,Yahoo 2-1,text,true,,141906,232,1,1,https://www.yahoo.com/,14,0,0
+1728259384026,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259384041,396,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141672,116,1,1,https://www.yahoo.com/,372,0,0
+1728259384437,1777,HTTP Request,200,OK,Yahoo 2-1,text,true,,223007,232,1,1,https://www.yahoo.com/,14,0,0
+1728259384437,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259384451,1763,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222773,116,1,1,https://www.yahoo.com/,1283,0,0
+1728259386214,447,HTTP Request,200,OK,Yahoo 2-1,text,true,,141847,232,1,1,https://www.yahoo.com/,15,0,0
+1728259386214,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259386229,432,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141613,116,1,1,https://www.yahoo.com/,408,0,0
+1728259386662,443,HTTP Request,200,OK,Yahoo 2-1,text,true,,142393,232,1,1,https://www.yahoo.com/,16,0,0
+1728259386662,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259386678,427,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142159,116,1,1,https://www.yahoo.com/,400,0,0
+1728259387105,1120,HTTP Request,200,OK,Yahoo 2-1,text,true,,142253,232,1,1,https://www.yahoo.com/,14,0,0
+1728259387105,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259387120,1105,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142019,116,1,1,https://www.yahoo.com/,646,0,0
+1728259388225,467,HTTP Request,200,OK,Yahoo 2-1,text,true,,142029,232,1,1,https://www.yahoo.com/,15,0,0
+1728259388225,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259388241,451,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141795,116,1,1,https://www.yahoo.com/,411,0,0
+1728259388692,530,HTTP Request,200,OK,Yahoo 2-1,text,true,,141889,232,1,1,https://www.yahoo.com/,80,0,0
+1728259388692,80,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,80,0,0
+1728259388772,450,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141655,116,1,1,https://www.yahoo.com/,415,0,0
+1728259389222,463,HTTP Request,200,OK,Yahoo 2-1,text,true,,141885,232,1,1,https://www.yahoo.com/,15,0,0
+1728259389222,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259389237,448,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141651,116,1,1,https://www.yahoo.com/,415,0,0
+1728259389685,426,HTTP Request,200,OK,Yahoo 2-1,text,true,,141886,232,1,1,https://www.yahoo.com/,16,0,0
+1728259389685,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259389701,410,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141652,116,1,1,https://www.yahoo.com/,386,0,0
+1728259390111,424,HTTP Request,200,OK,Yahoo 2-1,text,true,,142378,232,1,1,https://www.yahoo.com/,15,0,0
+1728259390111,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259390126,409,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142144,116,1,1,https://www.yahoo.com/,379,0,0
+1728259390535,432,HTTP Request,200,OK,Yahoo 2-1,text,true,,142400,232,1,1,https://www.yahoo.com/,15,0,0
+1728259390535,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259390550,417,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142166,116,1,1,https://www.yahoo.com/,390,0,0
+1728259390967,508,HTTP Request,200,OK,Yahoo 2-1,text,true,,141794,232,1,1,https://www.yahoo.com/,16,0,0
+1728259390967,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259390983,492,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141560,116,1,1,https://www.yahoo.com/,458,0,0
+1728259391476,433,HTTP Request,200,OK,Yahoo 2-1,text,true,,141891,232,1,1,https://www.yahoo.com/,15,0,0
+1728259391476,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259391491,418,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141657,116,1,1,https://www.yahoo.com/,394,0,0
+1728259391909,458,HTTP Request,200,OK,Yahoo 2-1,text,true,,142013,232,1,1,https://www.yahoo.com/,15,0,0
+1728259391909,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259391924,443,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141779,116,1,1,https://www.yahoo.com/,412,0,0
+1728259392368,460,HTTP Request,200,OK,Yahoo 2-1,text,true,,142551,232,1,1,https://www.yahoo.com/,17,0,0
+1728259392368,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259392385,443,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142317,116,1,1,https://www.yahoo.com/,410,0,0
+1728259392829,1031,HTTP Request,200,OK,Yahoo 2-1,text,true,,141753,232,1,1,https://www.yahoo.com/,17,0,0
+1728259392829,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259392846,1014,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141519,116,1,1,https://www.yahoo.com/,557,0,0
+1728259393861,439,HTTP Request,200,OK,Yahoo 2-1,text,true,,141862,232,1,1,https://www.yahoo.com/,14,0,0
+1728259393861,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259393875,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141628,116,1,1,https://www.yahoo.com/,396,0,0
+1728259394300,476,HTTP Request,200,OK,Yahoo 2-1,text,true,,141877,232,1,1,https://www.yahoo.com/,15,0,0
+1728259394300,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259394315,461,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141643,116,1,1,https://www.yahoo.com/,428,0,0
+1728259394777,476,HTTP Request,200,OK,Yahoo 2-1,text,true,,141886,232,1,1,https://www.yahoo.com/,15,0,0
+1728259394777,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259394792,461,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141652,116,1,1,https://www.yahoo.com/,426,0,0
+1728259395254,415,HTTP Request,200,OK,Yahoo 2-1,text,true,,141856,232,1,1,https://www.yahoo.com/,15,0,0
+1728259395254,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259395269,400,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141622,116,1,1,https://www.yahoo.com/,378,0,0
+1728259395669,417,HTTP Request,200,OK,Yahoo 2-1,text,true,,142469,232,1,1,https://www.yahoo.com/,15,0,0
+1728259395669,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259395684,402,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142235,116,1,1,https://www.yahoo.com/,379,0,0
+1728259396086,441,HTTP Request,200,OK,Yahoo 2-1,text,true,,141887,232,1,1,https://www.yahoo.com/,15,0,0
+1728259396086,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259396101,426,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141653,116,1,1,https://www.yahoo.com/,401,0,0
+1728259396528,432,HTTP Request,200,OK,Yahoo 2-1,text,true,,141878,232,1,1,https://www.yahoo.com/,14,0,0
+1728259396528,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259396542,418,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141644,116,1,1,https://www.yahoo.com/,393,0,0
+1728259396961,390,HTTP Request,200,OK,Yahoo 2-1,text,true,,142014,232,1,1,https://www.yahoo.com/,15,0,0
+1728259396961,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259396976,375,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141780,116,1,1,https://www.yahoo.com/,350,0,0
+1728259397352,471,HTTP Request,200,OK,Yahoo 2-1,text,true,,141884,232,1,1,https://www.yahoo.com/,14,0,0
+1728259397352,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259397367,456,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141650,116,1,1,https://www.yahoo.com/,420,0,0
+1728259397823,410,HTTP Request,200,OK,Yahoo 2-1,text,true,,141886,232,1,1,https://www.yahoo.com/,15,0,0
+1728259397823,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259397838,395,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141652,116,1,1,https://www.yahoo.com/,374,0,0
+1728259398234,419,HTTP Request,200,OK,Yahoo 2-1,text,true,,142714,232,1,1,https://www.yahoo.com/,14,0,0
+1728259398234,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259398248,405,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142480,116,1,1,https://www.yahoo.com/,380,0,0
+1728259398653,512,HTTP Request,200,OK,Yahoo 2-1,text,true,,142283,232,1,1,https://www.yahoo.com/,15,0,0
+1728259398653,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259398668,497,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142049,116,1,1,https://www.yahoo.com/,458,0,0
+1728259399166,428,HTTP Request,200,OK,Yahoo 2-1,text,true,,142410,232,1,1,https://www.yahoo.com/,14,0,0
+1728259399166,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259399181,413,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142176,116,1,1,https://www.yahoo.com/,389,0,0
+1728259399595,410,HTTP Request,200,OK,Yahoo 2-1,text,true,,142501,232,1,1,https://www.yahoo.com/,15,0,0
+1728259399595,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259399610,395,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142267,116,1,1,https://www.yahoo.com/,368,0,0
+1728259400006,422,HTTP Request,200,OK,Yahoo 2-1,text,true,,142394,232,1,1,https://www.yahoo.com/,14,0,0
+1728259400006,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259400020,408,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142160,116,1,1,https://www.yahoo.com/,383,0,0
+1728259400429,427,HTTP Request,200,OK,Yahoo 2-1,text,true,,141725,232,1,1,https://www.yahoo.com/,15,0,0
+1728259400429,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259400444,412,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141491,116,1,1,https://www.yahoo.com/,392,0,0
+1728259400857,402,HTTP Request,200,OK,Yahoo 2-1,text,true,,141877,232,1,1,https://www.yahoo.com/,14,0,0
+1728259400857,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259400871,388,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141643,116,1,1,https://www.yahoo.com/,367,0,0
+1728259401259,400,HTTP Request,200,OK,Yahoo 2-1,text,true,,142416,232,1,1,https://www.yahoo.com/,14,0,0
+1728259401259,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259401273,386,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142182,116,1,1,https://www.yahoo.com/,364,0,0
+1728259401660,425,HTTP Request,200,OK,Yahoo 2-1,text,true,,142416,232,1,1,https://www.yahoo.com/,14,0,0
+1728259401660,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259401674,411,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142182,116,1,1,https://www.yahoo.com/,390,0,0
+1728259402086,428,HTTP Request,200,OK,Yahoo 2-1,text,true,,141792,232,1,1,https://www.yahoo.com/,15,0,0
+1728259402086,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259402102,412,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141558,116,1,1,https://www.yahoo.com/,388,0,0
+1728259402514,422,HTTP Request,200,OK,Yahoo 2-1,text,true,,141886,232,1,1,https://www.yahoo.com/,22,0,0
+1728259402514,22,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,22,0,0
+1728259402537,399,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141652,116,1,1,https://www.yahoo.com/,376,0,0
+1728259402936,426,HTTP Request,200,OK,Yahoo 2-1,text,true,,142515,232,1,1,https://www.yahoo.com/,15,0,0
+1728259402936,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259402951,411,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142281,116,1,1,https://www.yahoo.com/,391,0,0
+1728259403363,661,HTTP Request,200,OK,Yahoo 2-1,text,true,,141891,232,1,1,https://www.yahoo.com/,17,0,0
+1728259403363,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259403380,644,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141657,116,1,1,https://www.yahoo.com/,608,0,0
+1728259404024,487,HTTP Request,200,OK,Yahoo 2-1,text,true,,141863,232,1,1,https://www.yahoo.com/,15,0,0
+1728259404024,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259404039,472,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141629,116,1,1,https://www.yahoo.com/,443,0,0
+1728259404512,407,HTTP Request,200,OK,Yahoo 2-1,text,true,,141722,232,1,1,https://www.yahoo.com/,14,0,0
+1728259404512,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259404526,393,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141488,116,1,1,https://www.yahoo.com/,368,0,0
+1728259404920,431,HTTP Request,200,OK,Yahoo 2-1,text,true,,142371,232,1,1,https://www.yahoo.com/,16,0,0
+1728259404920,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259404936,415,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142137,116,1,1,https://www.yahoo.com/,389,0,0
+1728259405351,414,HTTP Request,200,OK,Yahoo 2-1,text,true,,142370,232,1,1,https://www.yahoo.com/,15,0,0
+1728259405351,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259405366,399,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142136,116,1,1,https://www.yahoo.com/,377,0,0
+1728259405765,426,HTTP Request,200,OK,Yahoo 2-1,text,true,,141659,232,1,1,https://www.yahoo.com/,16,0,0
+1728259405765,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259405781,410,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141425,116,1,1,https://www.yahoo.com/,390,0,0
+1728259406191,438,HTTP Request,200,OK,Yahoo 2-1,text,true,,141870,232,1,1,https://www.yahoo.com/,14,0,0
+1728259406191,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259406205,424,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141636,116,1,1,https://www.yahoo.com/,401,0,0
+1728259406629,437,HTTP Request,200,OK,Yahoo 2-1,text,true,,141863,232,1,1,https://www.yahoo.com/,14,0,0
+1728259406629,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259406643,423,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141629,116,1,1,https://www.yahoo.com/,400,0,0
+1728259407066,414,HTTP Request,200,OK,Yahoo 2-1,text,true,,142394,232,1,1,https://www.yahoo.com/,15,0,0
+1728259407066,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259407081,399,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142160,116,1,1,https://www.yahoo.com/,378,0,0
+1728259407481,463,HTTP Request,200,OK,Yahoo 2-1,text,true,,142370,232,1,1,https://www.yahoo.com/,15,0,0
+1728259407481,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259407496,448,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142136,116,1,1,https://www.yahoo.com/,414,0,0
+1728259407944,413,HTTP Request,200,OK,Yahoo 2-1,text,true,,141856,232,1,1,https://www.yahoo.com/,15,0,0
+1728259407944,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259407959,398,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141622,116,1,1,https://www.yahoo.com/,377,0,0
+1728259408357,399,HTTP Request,200,OK,Yahoo 2-1,text,true,,142518,232,1,1,https://www.yahoo.com/,15,0,0
+1728259408357,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259408372,384,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142284,116,1,1,https://www.yahoo.com/,361,0,0
+1728259408757,436,HTTP Request,200,OK,Yahoo 2-1,text,true,,141800,232,1,1,https://www.yahoo.com/,16,0,0
+1728259408757,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259408773,420,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141566,116,1,1,https://www.yahoo.com/,398,0,0
+1728259409194,418,HTTP Request,200,OK,Yahoo 2-1,text,true,,142508,232,1,1,https://www.yahoo.com/,17,0,0
+1728259409194,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259409211,401,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142274,116,1,1,https://www.yahoo.com/,380,0,0
+1728259409613,415,HTTP Request,200,OK,Yahoo 2-1,text,true,,142401,232,1,1,https://www.yahoo.com/,15,0,0
+1728259409613,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259409628,400,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142167,116,1,1,https://www.yahoo.com/,374,0,0
+1728259410028,477,HTTP Request,200,OK,Yahoo 2-1,text,true,,142289,232,1,1,https://www.yahoo.com/,45,0,0
+1728259410028,45,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,45,0,0
+1728259410074,431,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142055,116,1,1,https://www.yahoo.com/,391,0,0
+1728259410506,445,HTTP Request,200,OK,Yahoo 2-1,text,true,,141848,232,1,1,https://www.yahoo.com/,14,0,0
+1728259410506,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259410520,431,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141614,116,1,1,https://www.yahoo.com/,405,0,0
+1728259410952,460,HTTP Request,200,OK,Yahoo 2-1,text,true,,141713,232,1,1,https://www.yahoo.com/,14,0,0
+1728259410952,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259410966,446,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141479,116,1,1,https://www.yahoo.com/,413,0,0
+1728259411413,427,HTTP Request,200,OK,Yahoo 2-1,text,true,,142378,232,1,1,https://www.yahoo.com/,13,0,0
+1728259411413,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259411427,413,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142144,116,1,1,https://www.yahoo.com/,384,0,0
+1728259411841,418,HTTP Request,200,OK,Yahoo 2-1,text,true,,142536,232,1,1,https://www.yahoo.com/,14,0,0
+1728259411841,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259411855,404,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142302,116,1,1,https://www.yahoo.com/,381,0,0
+1728259412259,458,HTTP Request,200,OK,Yahoo 2-1,text,true,,142371,232,1,1,https://www.yahoo.com/,15,0,0
+1728259412259,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259412274,443,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142137,116,1,1,https://www.yahoo.com/,409,0,0
+1728259412717,397,HTTP Request,200,OK,Yahoo 2-1,text,true,,142394,232,1,1,https://www.yahoo.com/,16,0,0
+1728259412717,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259412733,381,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142160,116,1,1,https://www.yahoo.com/,357,0,0
+1728259413115,1853,HTTP Request,200,OK,Yahoo 2-1,text,true,,223007,232,1,1,https://www.yahoo.com/,15,0,0
+1728259413115,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259413130,1838,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222773,116,1,1,https://www.yahoo.com/,1350,0,0
+1728259414969,385,HTTP Request,200,OK,Yahoo 2-1,text,true,,141878,232,1,1,https://www.yahoo.com/,15,0,0
+1728259414969,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259414984,370,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141644,116,1,1,https://www.yahoo.com/,347,0,0
+1728259415355,496,HTTP Request,200,OK,Yahoo 2-1,text,true,,141847,232,1,1,https://www.yahoo.com/,17,0,0
+1728259415355,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259415372,479,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141613,116,1,1,https://www.yahoo.com/,447,0,0
+1728259415851,1800,HTTP Request,200,OK,Yahoo 2-1,text,true,,223007,232,1,1,https://www.yahoo.com/,14,0,0
+1728259415851,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259415865,1786,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222773,116,1,1,https://www.yahoo.com/,1287,0,0
+1728259417652,407,HTTP Request,200,OK,Yahoo 2-1,text,true,,142415,232,1,1,https://www.yahoo.com/,15,0,0
+1728259417652,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259417667,392,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142181,116,1,1,https://www.yahoo.com/,367,0,0
+1728259418060,444,HTTP Request,200,OK,Yahoo 2-1,text,true,,142399,232,1,1,https://www.yahoo.com/,17,0,0
+1728259418060,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259418077,427,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142165,116,1,1,https://www.yahoo.com/,399,0,0
+1728259418504,403,HTTP Request,200,OK,Yahoo 2-1,text,true,,144246,232,1,1,https://www.yahoo.com/,15,0,0
+1728259418504,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259418519,388,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,144012,116,1,1,https://www.yahoo.com/,361,0,0
+1728259418907,409,HTTP Request,200,OK,Yahoo 2-1,text,true,,142013,232,1,1,https://www.yahoo.com/,14,0,0
+1728259418907,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259418921,395,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141779,116,1,1,https://www.yahoo.com/,367,0,0
+1728259419316,468,HTTP Request,200,OK,Yahoo 2-1,text,true,,142420,232,1,1,https://www.yahoo.com/,15,0,0
+1728259419316,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259419331,453,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142186,116,1,1,https://www.yahoo.com/,416,0,0
+1728259419784,445,HTTP Request,200,OK,Yahoo 2-1,text,true,,141985,232,1,1,https://www.yahoo.com/,15,0,0
+1728259419784,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259419799,430,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141751,116,1,1,https://www.yahoo.com/,375,0,0
+1728259420230,410,HTTP Request,200,OK,Yahoo 2-1,text,true,,141697,232,1,1,https://www.yahoo.com/,18,0,0
+1728259420230,18,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,18,0,0
+1728259420248,392,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141463,116,1,1,https://www.yahoo.com/,365,0,0
+1728259420640,398,HTTP Request,200,OK,Yahoo 2-1,text,true,,142399,232,1,1,https://www.yahoo.com/,16,0,0
+1728259420640,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259420656,382,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142165,116,1,1,https://www.yahoo.com/,359,0,0
+1728259421038,483,HTTP Request,200,OK,Yahoo 2-1,text,true,,141862,232,1,1,https://www.yahoo.com/,15,0,0
+1728259421038,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259421053,468,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141628,116,1,1,https://www.yahoo.com/,424,0,0
+1728259421521,411,HTTP Request,200,OK,Yahoo 2-1,text,true,,141870,232,1,1,https://www.yahoo.com/,16,0,0
+1728259421521,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259421537,395,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141636,116,1,1,https://www.yahoo.com/,372,0,0
+1728259421933,478,HTTP Request,200,OK,Yahoo 2-1,text,true,,141893,232,1,1,https://www.yahoo.com/,14,0,0
+1728259421933,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259421947,464,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141659,116,1,1,https://www.yahoo.com/,430,0,0
+1728259422411,422,HTTP Request,200,OK,Yahoo 2-1,text,true,,142409,232,1,1,https://www.yahoo.com/,16,0,0
+1728259422411,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259422427,406,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142175,116,1,1,https://www.yahoo.com/,382,0,0
+1728259422833,436,HTTP Request,200,OK,Yahoo 2-1,text,true,,141854,232,1,1,https://www.yahoo.com/,14,0,0
+1728259422833,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259422848,421,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141620,116,1,1,https://www.yahoo.com/,394,0,0
+1728259423269,412,HTTP Request,200,OK,Yahoo 2-1,text,true,,142012,232,1,1,https://www.yahoo.com/,15,0,0
+1728259423269,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259423284,397,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141778,116,1,1,https://www.yahoo.com/,372,0,0
+1728259423681,444,HTTP Request,200,OK,Yahoo 2-1,text,true,,141768,232,1,1,https://www.yahoo.com/,15,0,0
+1728259423681,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259423696,429,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141534,116,1,1,https://www.yahoo.com/,403,0,0
+1728259424126,476,HTTP Request,200,OK,Yahoo 2-1,text,true,,141900,232,1,1,https://www.yahoo.com/,14,0,0
+1728259424126,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259424140,462,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141666,116,1,1,https://www.yahoo.com/,428,0,0
+1728259424602,505,HTTP Request,200,OK,Yahoo 2-1,text,true,,142385,232,1,1,https://www.yahoo.com/,15,0,0
+1728259424602,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259424618,489,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142151,116,1,1,https://www.yahoo.com/,453,0,0
+1728259425107,646,HTTP Request,200,OK,Yahoo 2-1,text,true,,223008,232,1,1,https://www.yahoo.com/,15,0,0
+1728259425107,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259425122,631,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222774,116,1,1,https://www.yahoo.com/,589,0,0
+1728259425754,454,HTTP Request,200,OK,Yahoo 2-1,text,true,,141862,232,1,1,https://www.yahoo.com/,14,0,0
+1728259425754,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259425768,440,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141628,116,1,1,https://www.yahoo.com/,390,0,0
+1728259426208,449,HTTP Request,200,OK,Yahoo 2-1,text,true,,141786,232,1,1,https://www.yahoo.com/,29,0,0
+1728259426208,29,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,29,0,0
+1728259426237,420,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141552,116,1,1,https://www.yahoo.com/,396,0,0
+1728259426657,414,HTTP Request,200,OK,Yahoo 2-1,text,true,,142369,232,1,1,https://www.yahoo.com/,20,0,0
+1728259426657,20,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,20,0,0
+1728259426677,394,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142135,116,1,1,https://www.yahoo.com/,364,0,0
+1728259427072,438,HTTP Request,200,OK,Yahoo 2-1,text,true,,142376,232,1,1,https://www.yahoo.com/,16,0,0
+1728259427072,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259427088,422,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142142,116,1,1,https://www.yahoo.com/,394,0,0
+1728259427510,465,HTTP Request,200,OK,Yahoo 2-1,text,true,,141793,232,1,1,https://www.yahoo.com/,15,0,0
+1728259427510,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259427525,450,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141559,116,1,1,https://www.yahoo.com/,416,0,0
+1728259427976,409,HTTP Request,200,OK,Yahoo 2-1,text,true,,142376,232,1,1,https://www.yahoo.com/,14,0,0
+1728259427976,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259427990,395,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142142,116,1,1,https://www.yahoo.com/,372,0,0
+1728259428385,408,HTTP Request,200,OK,Yahoo 2-1,text,true,,141692,232,1,1,https://www.yahoo.com/,14,0,0
+1728259428385,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259428399,394,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141458,116,1,1,https://www.yahoo.com/,369,0,0
+1728259428794,444,HTTP Request,200,OK,Yahoo 2-1,text,true,,141855,232,1,1,https://www.yahoo.com/,15,0,0
+1728259428794,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259428809,429,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141621,116,1,1,https://www.yahoo.com/,387,0,0
+1728259429239,415,HTTP Request,200,OK,Yahoo 2-1,text,true,,141676,232,1,1,https://www.yahoo.com/,15,0,0
+1728259429239,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259429254,400,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141442,116,1,1,https://www.yahoo.com/,378,0,0
+1728259429655,454,HTTP Request,200,OK,Yahoo 2-1,text,true,,141977,232,1,1,https://www.yahoo.com/,18,0,0
+1728259429655,18,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,18,0,0
+1728259429673,436,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141743,116,1,1,https://www.yahoo.com/,387,0,0
+1728259430109,442,HTTP Request,200,OK,Yahoo 2-1,text,true,,141856,232,1,1,https://www.yahoo.com/,17,0,0
+1728259430109,17,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,17,0,0
+1728259430126,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141622,116,1,1,https://www.yahoo.com/,399,0,0
+1728259430551,466,HTTP Request,200,OK,Yahoo 2-1,text,true,,142370,232,1,1,https://www.yahoo.com/,16,0,0
+1728259430551,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259430567,450,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142136,116,1,1,https://www.yahoo.com/,422,0,0
+1728259431017,403,HTTP Request,200,OK,Yahoo 2-1,text,true,,141871,232,1,1,https://www.yahoo.com/,15,0,0
+1728259431017,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259431032,388,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141637,116,1,1,https://www.yahoo.com/,361,0,0
+1728259431421,407,HTTP Request,200,OK,Yahoo 2-1,text,true,,141812,232,1,1,https://www.yahoo.com/,14,0,0
+1728259431421,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259431435,393,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141578,116,1,1,https://www.yahoo.com/,371,0,0
+1728259431828,450,HTTP Request,200,OK,Yahoo 2-1,text,true,,142435,232,1,1,https://www.yahoo.com/,14,0,0
+1728259431828,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259431842,436,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142201,116,1,1,https://www.yahoo.com/,407,0,0
+1728259432278,418,HTTP Request,200,OK,Yahoo 2-1,text,true,,142394,232,1,1,https://www.yahoo.com/,16,0,0
+1728259432278,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259432294,402,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142160,116,1,1,https://www.yahoo.com/,374,0,0
+1728259432696,433,HTTP Request,200,OK,Yahoo 2-1,text,true,,142504,232,1,1,https://www.yahoo.com/,14,0,0
+1728259432696,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259432710,419,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142270,116,1,1,https://www.yahoo.com/,390,0,0
+1728259433130,462,HTTP Request,200,OK,Yahoo 2-1,text,true,,142479,232,1,1,https://www.yahoo.com/,14,0,0
+1728259433130,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259433145,447,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142245,116,1,1,https://www.yahoo.com/,411,0,0
+1728259433592,477,HTTP Request,200,OK,Yahoo 2-1,text,true,,142378,232,1,1,https://www.yahoo.com/,27,0,0
+1728259433592,27,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,27,0,0
+1728259433619,450,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142144,116,1,1,https://www.yahoo.com/,414,0,0
+1728259434069,1141,HTTP Request,200,OK,Yahoo 2-1,text,true,,142423,232,1,1,https://www.yahoo.com/,32,0,20
+1728259434069,32,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,32,0,20
+1728259434101,1109,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142189,116,1,1,https://www.yahoo.com/,648,0,40
+1728259435210,486,HTTP Request,200,OK,Yahoo 2-1,text,true,,142772,232,1,1,https://www.yahoo.com/,13,0,0
+1728259435210,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259435223,473,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142538,116,1,1,https://www.yahoo.com/,413,0,0
+1728259435696,436,HTTP Request,200,OK,Yahoo 2-1,text,true,,142001,232,1,1,https://www.yahoo.com/,15,0,0
+1728259435696,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259435711,421,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141767,116,1,1,https://www.yahoo.com/,385,0,0
+1728259436132,417,HTTP Request,200,OK,Yahoo 2-1,text,true,,142362,232,1,1,https://www.yahoo.com/,16,0,0
+1728259436132,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259436148,401,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142128,116,1,1,https://www.yahoo.com/,371,0,0
+1728259436550,441,HTTP Request,200,OK,Yahoo 2-1,text,true,,141784,232,1,1,https://www.yahoo.com/,13,0,0
+1728259436550,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259436563,428,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141550,116,1,1,https://www.yahoo.com/,399,0,0
+1728259436991,881,HTTP Request,200,OK,Yahoo 2-1,text,true,,141901,232,1,1,https://www.yahoo.com/,13,0,0
+1728259436991,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259437004,868,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141667,116,1,1,https://www.yahoo.com/,407,0,0
+1728259437872,423,HTTP Request,200,OK,Yahoo 2-1,text,true,,142377,232,1,1,https://www.yahoo.com/,16,0,0
+1728259437872,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259437888,407,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142143,116,1,1,https://www.yahoo.com/,381,0,0
+1728259438296,586,HTTP Request,200,OK,Yahoo 2-1,text,true,,141896,232,1,1,https://www.yahoo.com/,13,0,0
+1728259438296,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259438309,573,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141662,116,1,1,https://www.yahoo.com/,431,0,0
+1728259438883,494,HTTP Request,200,OK,Yahoo 2-1,text,true,,141863,232,1,1,https://www.yahoo.com/,71,0,0
+1728259438883,71,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,71,0,0
+1728259438954,423,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141629,116,1,1,https://www.yahoo.com/,357,0,0
+1728259439378,466,HTTP Request,200,OK,Yahoo 2-1,text,true,,141872,232,1,1,https://www.yahoo.com/,61,0,0
+1728259439378,61,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,61,0,0
+1728259439439,405,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141638,116,1,1,https://www.yahoo.com/,375,0,0
+1728259439844,462,HTTP Request,200,OK,Yahoo 2-1,text,true,,141854,232,1,1,https://www.yahoo.com/,14,0,0
+1728259439844,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259439858,448,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141620,116,1,1,https://www.yahoo.com/,422,0,0
+1728259440307,415,HTTP Request,200,OK,Yahoo 2-1,text,true,,141854,232,1,1,https://www.yahoo.com/,13,0,0
+1728259440307,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259440320,402,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141620,116,1,1,https://www.yahoo.com/,374,0,0
+1728259440722,438,HTTP Request,200,OK,Yahoo 2-1,text,true,,142377,232,1,1,https://www.yahoo.com/,15,0,0
+1728259440722,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259440737,423,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142143,116,1,1,https://www.yahoo.com/,396,0,0
+1728259441160,422,HTTP Request,200,OK,Yahoo 2-1,text,true,,141828,232,1,1,https://www.yahoo.com/,14,0,0
+1728259441160,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259441174,408,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141594,116,1,1,https://www.yahoo.com/,388,0,0
+1728259441583,439,HTTP Request,200,OK,Yahoo 2-1,text,true,,141899,232,1,1,https://www.yahoo.com/,14,0,0
+1728259441583,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259441597,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141665,116,1,1,https://www.yahoo.com/,410,0,0
+1728259442023,538,HTTP Request,200,OK,Yahoo 2-1,text,true,,141707,232,1,1,https://www.yahoo.com/,112,0,0
+1728259442023,112,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,112,0,0
+1728259442135,426,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141473,116,1,1,https://www.yahoo.com/,400,0,0
+1728259442561,893,HTTP Request,200,OK,Yahoo 2-1,text,true,,141893,232,1,1,https://www.yahoo.com/,12,0,0
+1728259442561,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259442574,880,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141659,116,1,1,https://www.yahoo.com/,420,0,0
+1728259443454,424,HTTP Request,200,OK,Yahoo 2-1,text,true,,141869,232,1,1,https://www.yahoo.com/,13,0,0
+1728259443454,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259443467,411,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141635,116,1,1,https://www.yahoo.com/,389,0,0
+1728259443878,394,HTTP Request,200,OK,Yahoo 2-1,text,true,,142407,232,1,1,https://www.yahoo.com/,13,0,0
+1728259443878,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259443891,381,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142173,116,1,1,https://www.yahoo.com/,363,0,0
+1728259444272,491,HTTP Request,200,OK,Yahoo 2-1,text,true,,141809,232,1,1,https://www.yahoo.com/,13,0,0
+1728259444272,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259444285,478,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141575,116,1,1,https://www.yahoo.com/,458,0,0
+1728259444763,444,HTTP Request,200,OK,Yahoo 2-1,text,true,,142493,232,1,1,https://www.yahoo.com/,14,0,0
+1728259444763,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259444777,430,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142259,116,1,1,https://www.yahoo.com/,412,0,0
+1728259445208,455,HTTP Request,200,OK,Yahoo 2-1,text,true,,141981,232,1,1,https://www.yahoo.com/,12,0,0
+1728259445208,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259445220,443,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141747,116,1,1,https://www.yahoo.com/,419,0,0
+1728259445663,438,HTTP Request,200,OK,Yahoo 2-1,text,true,,141750,232,1,1,https://www.yahoo.com/,13,0,0
+1728259445663,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259445676,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141516,116,1,1,https://www.yahoo.com/,407,0,0
+1728259446102,425,HTTP Request,200,OK,Yahoo 2-1,text,true,,141847,232,1,1,https://www.yahoo.com/,12,0,0
+1728259446102,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259446114,413,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141613,116,1,1,https://www.yahoo.com/,394,0,0
+1728259446527,415,HTTP Request,200,OK,Yahoo 2-1,text,true,,141791,232,1,1,https://www.yahoo.com/,13,0,0
+1728259446527,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259446540,402,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141557,116,1,1,https://www.yahoo.com/,380,0,0
+1728259446942,592,HTTP Request,200,OK,Yahoo 2-1,text,true,,142406,232,1,1,https://www.yahoo.com/,13,0,0
+1728259446942,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259446955,579,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142172,116,1,1,https://www.yahoo.com/,422,0,0
+1728259447535,511,HTTP Request,200,OK,Yahoo 2-1,text,true,,142368,232,1,1,https://www.yahoo.com/,32,0,0
+1728259447535,32,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,32,0,0
+1728259447567,479,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142134,116,1,1,https://www.yahoo.com/,412,0,0
+1728259448046,648,HTTP Request,200,OK,Yahoo 2-1,text,true,,142384,232,1,1,https://www.yahoo.com/,61,0,0
+1728259448046,61,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,61,0,0
+1728259448107,587,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142150,116,1,1,https://www.yahoo.com/,455,0,0
+1728259448695,572,HTTP Request,200,OK,Yahoo 2-1,text,true,,142536,232,1,1,https://www.yahoo.com/,49,0,0
+1728259448695,49,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,49,0,0
+1728259448745,522,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142302,116,1,1,https://www.yahoo.com/,448,0,0
+1728259449268,426,HTTP Request,200,OK,Yahoo 2-1,text,true,,141890,232,1,1,https://www.yahoo.com/,14,0,0
+1728259449268,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259449282,412,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141656,116,1,1,https://www.yahoo.com/,388,0,0
+1728259449695,412,HTTP Request,200,OK,Yahoo 2-1,text,true,,141854,232,1,1,https://www.yahoo.com/,12,0,0
+1728259449695,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259449707,400,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141620,116,1,1,https://www.yahoo.com/,379,0,0
+1728259450108,444,HTTP Request,200,OK,Yahoo 2-1,text,true,,141891,232,1,1,https://www.yahoo.com/,13,0,0
+1728259450108,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259450121,431,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141657,116,1,1,https://www.yahoo.com/,414,0,0
+1728259450553,416,HTTP Request,200,OK,Yahoo 2-1,text,true,,142420,232,1,1,https://www.yahoo.com/,15,0,0
+1728259450553,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259450568,401,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142186,116,1,1,https://www.yahoo.com/,383,0,0
+1728259450969,388,HTTP Request,200,OK,Yahoo 2-1,text,true,,142199,232,1,1,https://www.yahoo.com/,14,0,0
+1728259450969,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259450983,374,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141965,116,1,1,https://www.yahoo.com/,357,0,0
+1728259451357,414,HTTP Request,200,OK,Yahoo 2-1,text,true,,141887,232,1,1,https://www.yahoo.com/,13,0,0
+1728259451357,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259451370,401,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141653,116,1,1,https://www.yahoo.com/,380,0,0
+1728259451771,435,HTTP Request,200,OK,Yahoo 2-1,text,true,,141647,232,1,1,https://www.yahoo.com/,16,0,0
+1728259451771,16,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,16,0,0
+1728259451787,419,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141413,116,1,1,https://www.yahoo.com/,400,0,0
+1728259452206,427,HTTP Request,200,OK,Yahoo 2-1,text,true,,141965,232,1,1,https://www.yahoo.com/,13,0,0
+1728259452206,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259452219,414,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141731,116,1,1,https://www.yahoo.com/,396,0,0
+1728259452634,412,HTTP Request,200,OK,Yahoo 2-1,text,true,,142008,232,1,1,https://www.yahoo.com/,29,0,0
+1728259452634,29,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,29,0,0
+1728259452663,383,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141774,116,1,1,https://www.yahoo.com/,365,0,0
+1728259453046,988,HTTP Request,200,OK,Yahoo 2-1,text,true,,141903,232,1,1,https://www.yahoo.com/,22,0,0
+1728259453046,22,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,22,0,0
+1728259453068,966,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141669,116,1,1,https://www.yahoo.com/,509,0,0
+1728259454034,423,HTTP Request,200,OK,Yahoo 2-1,text,true,,141886,232,1,1,https://www.yahoo.com/,13,0,0
+1728259454034,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259454047,410,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141652,116,1,1,https://www.yahoo.com/,389,0,0
+1728259454458,432,HTTP Request,200,OK,Yahoo 2-1,text,true,,141734,232,1,1,https://www.yahoo.com/,12,0,0
+1728259454458,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259454470,420,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141500,116,1,1,https://www.yahoo.com/,398,0,0
+1728259454891,1918,HTTP Request,200,OK,Yahoo 2-1,text,true,,223207,232,1,1,https://www.yahoo.com/,13,0,0
+1728259454891,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259454904,1905,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222973,116,1,1,https://www.yahoo.com/,1421,0,0
+1728259456809,436,HTTP Request,200,OK,Yahoo 2-1,text,true,,141855,232,1,1,https://www.yahoo.com/,12,0,0
+1728259456809,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259456822,423,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141621,116,1,1,https://www.yahoo.com/,402,0,0
+1728259457245,447,HTTP Request,200,OK,Yahoo 2-1,text,true,,142378,232,1,1,https://www.yahoo.com/,13,0,0
+1728259457245,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259457258,434,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142144,116,1,1,https://www.yahoo.com/,415,0,0
+1728259457692,428,HTTP Request,200,OK,Yahoo 2-1,text,true,,141883,232,1,1,https://www.yahoo.com/,13,0,0
+1728259457692,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259457705,415,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141649,116,1,1,https://www.yahoo.com/,399,0,0
+1728259458120,437,HTTP Request,200,OK,Yahoo 2-1,text,true,,141997,232,1,1,https://www.yahoo.com/,12,0,0
+1728259458120,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259458132,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141763,116,1,1,https://www.yahoo.com/,407,0,0
+1728259458557,408,HTTP Request,200,OK,Yahoo 2-1,text,true,,142392,232,1,1,https://www.yahoo.com/,12,0,0
+1728259458557,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259458569,396,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142158,116,1,1,https://www.yahoo.com/,380,0,0
+1728259458965,676,HTTP Request,200,OK,Yahoo 2-1,text,true,,223008,232,1,1,https://www.yahoo.com/,12,0,0
+1728259458965,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259458977,664,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222774,116,1,1,https://www.yahoo.com/,622,0,0
+1728259459641,429,HTTP Request,200,OK,Yahoo 2-1,text,true,,142514,232,1,1,https://www.yahoo.com/,42,0,0
+1728259459641,42,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,42,0,0
+1728259459683,387,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142280,116,1,1,https://www.yahoo.com/,368,0,0
+1728259460070,644,HTTP Request,200,OK,Yahoo 2-1,text,true,,223207,232,1,1,https://www.yahoo.com/,12,0,0
+1728259460070,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259460082,632,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222973,116,1,1,https://www.yahoo.com/,601,0,0
+1728259460715,421,HTTP Request,200,OK,Yahoo 2-1,text,true,,141762,232,1,1,https://www.yahoo.com/,12,0,0
+1728259460715,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259460727,409,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141528,116,1,1,https://www.yahoo.com/,393,0,0
+1728259461137,432,HTTP Request,200,OK,Yahoo 2-1,text,true,,141954,232,1,1,https://www.yahoo.com/,12,0,0
+1728259461137,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259461149,420,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141720,116,1,1,https://www.yahoo.com/,390,0,0
+1728259461569,420,HTTP Request,200,OK,Yahoo 2-1,text,true,,141893,232,1,1,https://www.yahoo.com/,15,0,0
+1728259461569,15,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,15,0,0
+1728259461584,405,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141659,116,1,1,https://www.yahoo.com/,388,0,0
+1728259461990,428,HTTP Request,200,OK,Yahoo 2-1,text,true,,141862,232,1,1,https://www.yahoo.com/,13,0,0
+1728259461990,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259462003,415,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141628,116,1,1,https://www.yahoo.com/,400,0,0
+1728259462418,513,HTTP Request,200,OK,Yahoo 2-1,text,true,,141900,232,1,1,https://www.yahoo.com/,12,0,0
+1728259462418,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259462430,501,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141666,116,1,1,https://www.yahoo.com/,474,0,0
+1728259462931,406,HTTP Request,200,OK,Yahoo 2-1,text,true,,141847,232,1,1,https://www.yahoo.com/,13,0,0
+1728259462931,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259462944,393,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141613,116,1,1,https://www.yahoo.com/,373,0,0
+1728259463337,410,HTTP Request,200,OK,Yahoo 2-1,text,true,,141799,232,1,1,https://www.yahoo.com/,12,0,0
+1728259463337,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259463349,398,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141565,116,1,1,https://www.yahoo.com/,377,0,0
+1728259463748,494,HTTP Request,200,OK,Yahoo 2-1,text,true,,142006,232,1,1,https://www.yahoo.com/,12,0,0
+1728259463748,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259463760,482,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141772,116,1,1,https://www.yahoo.com/,456,0,0
+1728259464242,438,HTTP Request,200,OK,Yahoo 2-1,text,true,,142507,232,1,1,https://www.yahoo.com/,13,0,0
+1728259464242,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259464255,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142273,116,1,1,https://www.yahoo.com/,399,0,0
+1728259464680,470,HTTP Request,200,OK,Yahoo 2-1,text,true,,141793,232,1,1,https://www.yahoo.com/,14,0,0
+1728259464680,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259464694,456,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141559,116,1,1,https://www.yahoo.com/,429,0,0
+1728259465151,414,HTTP Request,200,OK,Yahoo 2-1,text,true,,142505,232,1,1,https://www.yahoo.com/,13,0,0
+1728259465151,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259465164,401,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142271,116,1,1,https://www.yahoo.com/,374,0,0
+1728259465566,663,HTTP Request,200,OK,Yahoo 2-1,text,true,,223008,232,1,1,https://www.yahoo.com/,13,0,0
+1728259465566,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259465579,650,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222774,116,1,1,https://www.yahoo.com/,597,0,0
+1728259466229,453,HTTP Request,200,OK,Yahoo 2-1,text,true,,142867,232,1,1,https://www.yahoo.com/,13,0,0
+1728259466229,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259466242,440,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142633,116,1,1,https://www.yahoo.com/,417,0,0
+1728259466682,437,HTTP Request,200,OK,Yahoo 2-1,text,true,,141815,232,1,1,https://www.yahoo.com/,12,0,0
+1728259466682,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259466694,425,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141581,116,1,1,https://www.yahoo.com/,406,0,0
+1728259467120,396,HTTP Request,200,OK,Yahoo 2-1,text,true,,141863,232,1,1,https://www.yahoo.com/,12,0,0
+1728259467120,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259467132,384,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141629,116,1,1,https://www.yahoo.com/,364,0,0
+1728259467517,397,HTTP Request,200,OK,Yahoo 2-1,text,true,,142416,232,1,1,https://www.yahoo.com/,13,0,0
+1728259467517,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259467530,384,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142182,116,1,1,https://www.yahoo.com/,363,0,0
+1728259467914,440,HTTP Request,200,OK,Yahoo 2-1,text,true,,142542,232,1,1,https://www.yahoo.com/,13,0,0
+1728259467914,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259467927,427,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142308,116,1,1,https://www.yahoo.com/,397,0,0
+1728259468355,451,HTTP Request,200,OK,Yahoo 2-1,text,true,,143266,232,1,1,https://www.yahoo.com/,19,0,0
+1728259468355,19,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,19,0,0
+1728259468374,432,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,143032,116,1,1,https://www.yahoo.com/,406,0,0
+1728259468807,419,HTTP Request,200,OK,Yahoo 2-1,text,true,,142469,232,1,1,https://www.yahoo.com/,12,0,0
+1728259468807,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259468819,407,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142235,116,1,1,https://www.yahoo.com/,388,0,0
+1728259469227,396,HTTP Request,200,OK,Yahoo 2-1,text,true,,142250,232,1,1,https://www.yahoo.com/,12,0,0
+1728259469227,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259469239,384,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142016,116,1,1,https://www.yahoo.com/,363,0,0
+1728259469623,418,HTTP Request,200,OK,Yahoo 2-1,text,true,,141908,232,1,1,https://www.yahoo.com/,14,0,0
+1728259469623,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259469637,404,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141674,116,1,1,https://www.yahoo.com/,376,0,0
+1728259470042,661,HTTP Request,200,OK,Yahoo 2-1,text,true,,223008,232,1,1,https://www.yahoo.com/,12,0,0
+1728259470042,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259470054,649,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222774,116,1,1,https://www.yahoo.com/,598,0,0
+1728259470703,441,HTTP Request,200,OK,Yahoo 2-1,text,true,,142410,232,1,1,https://www.yahoo.com/,13,0,0
+1728259470703,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259470716,428,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142176,116,1,1,https://www.yahoo.com/,395,0,0
+1728259471144,420,HTTP Request,200,OK,Yahoo 2-1,text,true,,141848,232,1,1,https://www.yahoo.com/,12,0,0
+1728259471144,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259471157,407,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141614,116,1,1,https://www.yahoo.com/,390,0,0
+1728259471564,411,HTTP Request,200,OK,Yahoo 2-1,text,true,,141885,232,1,1,https://www.yahoo.com/,12,0,0
+1728259471564,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259471576,399,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141651,116,1,1,https://www.yahoo.com/,383,0,0
+1728259471976,410,HTTP Request,200,OK,Yahoo 2-1,text,true,,141704,232,1,1,https://www.yahoo.com/,12,0,0
+1728259471976,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259471988,398,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,141470,116,1,1,https://www.yahoo.com/,380,0,0
+1728259472386,1773,HTTP Request,200,OK,Yahoo 2-1,text,true,,223207,232,1,1,https://www.yahoo.com/,12,0,0
+1728259472386,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259472398,1761,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,222973,116,1,1,https://www.yahoo.com/,1289,0,0
+1728259474159,445,HTTP Request,200,OK,Yahoo 2-1,text,true,,142283,232,1,1,https://www.yahoo.com/,14,0,0
+1728259474159,14,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,14,0,0
+1728259474173,431,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142049,116,1,1,https://www.yahoo.com/,407,0,0
+1728259474604,401,HTTP Request,200,OK,Yahoo 2-1,text,true,,142408,232,1,1,https://www.yahoo.com/,12,0,0
+1728259474604,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259474616,389,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142174,116,1,1,https://www.yahoo.com/,370,0,0
+1728259475005,434,HTTP Request,200,OK,Yahoo 2-1,text,true,,142407,232,1,1,https://www.yahoo.com/,13,0,0
+1728259475005,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259475019,420,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142173,116,1,1,https://www.yahoo.com/,396,0,0
+1728259475440,427,HTTP Request,200,OK,Yahoo 2-1,text,true,,143807,232,1,1,https://www.yahoo.com/,12,0,0
+1728259475440,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259475452,415,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,143573,116,1,1,https://www.yahoo.com/,398,0,0
+1728259475867,447,HTTP Request,200,OK,Yahoo 2-1,text,true,,142418,232,1,1,https://www.yahoo.com/,12,0,0
+1728259475867,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259475879,435,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142184,116,1,1,https://www.yahoo.com/,410,0,0
+1728259476315,432,HTTP Request,200,OK,Yahoo 2-1,text,true,,142378,232,1,1,https://www.yahoo.com/,12,0,0
+1728259476315,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259476327,420,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142144,116,1,1,https://www.yahoo.com/,401,0,0
+1728259476747,418,HTTP Request,200,OK,Yahoo 2-1,text,true,,142362,232,1,1,https://www.yahoo.com/,12,0,0
+1728259476747,12,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,12,0,0
+1728259476759,406,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142128,116,1,1,https://www.yahoo.com/,380,0,0
+1728259477165,420,HTTP Request,200,OK,Yahoo 2-1,text,true,,142378,232,1,1,https://www.yahoo.com/,13,0,0
+1728259477165,13,HTTP Request-0,301,Moved Permanently,Yahoo 2-1,text,true,,234,116,1,1,http://www.yahoo.com/,13,0,0
+1728259477178,407,HTTP Request-1,200,OK,Yahoo 2-1,text,true,,142144,116,1,1,https://www.yahoo.com/,370,0,0
