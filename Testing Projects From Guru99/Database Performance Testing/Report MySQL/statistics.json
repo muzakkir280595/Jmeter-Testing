@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 9557.0,
+    "medianResTime" : 9557.0,
+    "minResTime" : 9557.0,
+    "maxResTime" : 9557.0,
+    "pct1ResTime" : 9557.0,
+    "pct2ResTime" : 9557.0,
+    "pct3ResTime" : 9557.0,
+    "throughput" : 0.10463534581981794,
+    "receivedKBytesPerSec" : 0.17790052448467092,
+    "sentKBytesPerSec" : 0.0
+  },
+  "JDBC Request SELECT * FROM classicmodels.employees" : {
+    "transaction" : "JDBC Request SELECT * FROM classicmodels.employees",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 9557.0,
+    "medianResTime" : 9557.0,
+    "minResTime" : 9557.0,
+    "maxResTime" : 9557.0,
+    "pct1ResTime" : 9557.0,
+    "pct2ResTime" : 9557.0,
+    "pct3ResTime" : 9557.0,
+    "throughput" : 0.10463534581981794,
+    "receivedKBytesPerSec" : 0.17790052448467092,
+    "sentKBytesPerSec" : 0.0
+  }
+}

@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728805916273,9557,JDBC Request SELECT * FROM classicmodels.employees,200,OK,Thread Group 1-1,text,true,,1741,0,1,1,null,9556,0,9541
